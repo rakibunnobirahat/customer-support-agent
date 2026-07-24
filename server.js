@@ -1,9 +1,13 @@
 const express = require("express");
 const cors = require("cors");
-const { customers, orders, policies } = require("./data");
+const dotenv = require("dotenv");
+const connectDB = require("./db");
 const store = require("./store");
-const dotenv = require('dotenv');
-const connectDB = require('./db');
+
+// Mongoose Models
+const Customer = require("./models/Customer");
+const Order = require("./models/Order");
+const Policy = require("./models/Policy");
 
 dotenv.config();
 
@@ -14,43 +18,81 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 5000;
 
 // ---- GET /api/customer?email= ----
-app.get("/api/customer", (req, res) => {
-  const { email } = req.query;
-  const customer = customers.find(
-    (c) => email && c.email.toLowerCase() === String(email).toLowerCase()
-  );
-  if (!customer) return res.json({ found: false }); // not-found branch first
-  return res.json({ found: true, customer });
+app.get("/api/customer", async (req, res, next) => {
+  try {
+    const { email } = req.query;
+    if (!email) return res.json({ found: false });
+
+    // Case-insensitive exact match search on email
+    const customer = await Customer.findOne({
+      email: { $regex: new RegExp(`^${email.trim()}$`, "i") },
+    })
+      .select("-_id -__v")
+      .lean();
+
+    if (!customer) return res.json({ found: false });
+    return res.json({ found: true, customer });
+  } catch (error) {
+    next(error);
+  }
 });
 
 // ---- GET /api/order?orderId=&customerId= ----
 // customerId is optional and scopes the lookup — prevents cross-customer data leakage.
-app.get("/api/order", (req, res) => {
-  const { orderId, customerId } = req.query;
-  const order = orders.find(
-    (o) => o.orderId === orderId && (!customerId || o.customerId === customerId)
-  );
-  if (!order) return res.json({ found: false });
-  return res.json({ found: true, order });
+app.get("/api/order", async (req, res, next) => {
+  try {
+    const { orderId, customerId } = req.query;
+    if (!orderId) return res.json({ found: false });
+
+    const query = { orderId };
+    if (customerId) query.customerId = customerId;
+
+    const order = await Order.findOne(query).select("-_id -__v").lean();
+
+    if (!order) return res.json({ found: false });
+    return res.json({ found: true, order });
+  } catch (error) {
+    next(error);
+  }
 });
 
 // ---- GET /api/orders-by-customer?customerId= ----
-app.get("/api/orders-by-customer", (req, res) => {
-  const { customerId } = req.query;
-  const list = orders.filter((o) => o.customerId === customerId);
-  if (list.length === 0) return res.json({ found: false, orders: [] });
-  return res.json({ found: true, orders: list });
+app.get("/api/orders-by-customer", async (req, res, next) => {
+  try {
+    const { customerId } = req.query;
+    if (!customerId) return res.json({ found: false, orders: [] });
+
+    const list = await Order.find({ customerId }).select("-_id -__v").lean();
+
+    if (list.length === 0) return res.json({ found: false, orders: [] });
+    return res.json({ found: true, orders: list });
+  } catch (error) {
+    next(error);
+  }
 });
 
 // ---- GET /api/policy?topic= ----
-app.get("/api/policy", (req, res) => {
-  const { topic } = req.query;
-  const text = policies[topic];
-  if (!text) return res.json({ found: false, availableTopics: Object.keys(policies) });
-  return res.json({ found: true, topic, text });
+app.get("/api/policy", async (req, res, next) => {
+  try {
+    const { topic } = req.query;
+
+    const policy = await Policy.findOne({ topic }).select("-_id -__v").lean();
+
+    if (!policy) {
+      // Dynamically fetch available policy topics if requested topic is not found
+      const allPolicies = await Policy.find().select("topic -_id").lean();
+      const availableTopics = allPolicies.map((p) => p.topic);
+
+      return res.json({ found: false, availableTopics });
+    }
+
+    return res.json({ found: true, topic: policy.topic, text: policy.text });
+  } catch (error) {
+    next(error);
+  }
 });
 
 // ---- POST /api/ticket ----
@@ -83,6 +125,12 @@ app.post("/api/_debug/reset", (req, res) => {
 });
 
 app.get("/health", (req, res) => res.json({ ok: true }));
+
+// Global Error Handler
+app.use((err, req, res, next) => {
+  console.error("API Error:", err.message);
+  res.status(500).json({ error: "Internal Server Error", message: err.message });
+});
 
 app.listen(PORT, () => console.log(`Mock CS API listening on :${PORT}`));
 
