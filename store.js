@@ -1,46 +1,70 @@
-// Runtime store for tickets and conversation logs.
-// In production this is a real DB (Mongo collections `tickets` / `conversations`).
-// Kept separate from data.js so you can reset runtime state between test runs
-// without touching seed data.
+const Ticket = require("./models/Ticket");
+const Conversation = require("./models/Conversation");
 
-let tickets = [];
-let conversations = [];
-let ticketSeq = 1;
+// Creates ticket with auto-incrementing ID (TCK-1001, TCK-1002, etc.)
+async function createTicket({ customerId, orderId, category, reason, summary, sessionId }) {
+  const count = await Ticket.countDocuments();
+  const ticketId = `TCK-${1001 + count}`;
 
-function createTicket({ customerId, orderId, category, reason, summary, sessionId }) {
-  const ticket = {
-    ticketId: `TCK-${1000 + ticketSeq++}`,
+  const ticket = await Ticket.create({
+    ticketId,
     customerId: customerId || null,
     orderId: orderId || null,
-    category, // no_data_found | sensitive | explicit_human_request | tool_failure | low_confidence
+    category,
     reason: reason || null,
     summary,
     sessionId,
     status: "pending_human",
-    createdAt: new Date().toISOString(),
-  };
-  tickets.push(ticket);
-  return ticket;
+  });
+
+  const doc = ticket.toObject();
+  delete doc._id;
+  delete doc.__v;
+  return doc;
 }
 
-function logTurn(entry) {
-  const withTimestamp = { ...entry, timestamp: new Date().toISOString() };
-  conversations.push(withTimestamp);
-  return withTimestamp;
+// Logs conversation turn directly into MongoDB
+async function logTurn(entry) {
+  const log = await Conversation.create(entry);
+  const doc = log.toObject();
+  delete doc._id;
+  delete doc.__v;
+  return doc;
 }
 
-function getConversation(sessionId) {
-  return conversations.filter((c) => c.sessionId === sessionId);
+// Fetches logs for a given sessionId
+async function getConversation(sessionId) {
+  return await Conversation.find({ sessionId }).select("-_id -__v").lean();
 }
 
-function getAllTickets() {
-  return tickets;
+// Fetches all tickets
+async function getAllTickets() {
+  return await Ticket.find().select("-_id -__v").lean();
 }
 
-function reset() {
-  tickets = [];
-  conversations = [];
-  ticketSeq = 1;
+// Updates ticket status (e.g. pending_human -> resolved)
+async function updateTicketStatus(ticketId, status) {
+  return await Ticket.findOneAndUpdate(
+    { ticketId },
+    { status },
+    { new: true }
+  )
+    .select("-_id -__v")
+    .lean();
 }
 
-module.exports = { createTicket, logTurn, getConversation, getAllTickets, reset };
+// Resets runtime collections between test runs
+async function reset() {
+  await Ticket.deleteMany({});
+  await Conversation.deleteMany({});
+  return true;
+}
+
+module.exports = {
+  createTicket,
+  logTurn,
+  getConversation,
+  getAllTickets,
+  updateTicketStatus,
+  reset,
+};

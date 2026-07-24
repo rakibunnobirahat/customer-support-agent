@@ -132,6 +132,91 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: "Internal Server Error", message: err.message });
 });
 
+// ---- POST /api/ticket ----
+app.post("/api/ticket", async (req, res, next) => {
+  try {
+    const { customerId, orderId, category, reason, summary, sessionId } = req.body;
+    if (!category || !summary) {
+      return res.status(400).json({ error: "category and summary are required" });
+    }
+
+    const ticket = await store.createTicket({
+      customerId,
+      orderId,
+      category,
+      reason,
+      summary,
+      sessionId,
+    });
+
+    return res.json({ created: true, ticket });
+  } catch (error) {
+    next(error);
+  }
+});
+
+// ---- PATCH /api/ticket/:ticketId ---- (NEW: Update ticket status)
+app.patch("/api/ticket/:ticketId", async (req, res, next) => {
+  try {
+    const { ticketId } = req.params;
+    const { status } = req.body;
+
+    if (!status) {
+      return res.status(400).json({ error: "status is required" });
+    }
+
+    const ticket = await store.updateTicketStatus(ticketId, status);
+    if (!ticket) {
+      return res.status(404).json({ found: false, error: "Ticket not found" });
+    }
+
+    return res.json({ updated: true, ticket });
+  } catch (error) {
+    next(error);
+  }
+});
+
+// ---- POST /api/log ----
+app.post("/api/log", async (req, res, next) => {
+  try {
+    if (!req.body.sessionId) {
+      return res.status(400).json({ error: "sessionId is required" });
+    }
+    const entry = await store.logTurn(req.body);
+    return res.json({ logged: true, entry });
+  } catch (error) {
+    next(error);
+  }
+});
+
+// ---- Debug Endpoints ----
+app.get("/api/_debug/tickets", async (req, res, next) => {
+  try {
+    const tickets = await store.getAllTickets();
+    res.json(tickets);
+  } catch (error) {
+    next(error);
+  }
+});
+
+app.get("/api/_debug/conversation/:sessionId", async (req, res, next) => {
+  try {
+    const logs = await store.getConversation(req.params.sessionId);
+    res.json(logs);
+  } catch (error) {
+    next(error);
+  }
+});
+
+app.post("/api/_debug/reset", async (req, res, next) => {
+  try {
+    await store.reset();
+    res.json({ reset: true });
+  } catch (error) {
+    next(error);
+  }
+});
+
 app.listen(PORT, () => console.log(`Mock CS API listening on :${PORT}`));
 
 module.exports = app;
