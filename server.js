@@ -8,6 +8,7 @@ const store = require("./store");
 const Customer = require("./models/Customer");
 const Order = require("./models/Order");
 const Policy = require("./models/Policy");
+const OTP = require("./models/OTP");
 
 dotenv.config();
 
@@ -183,6 +184,120 @@ app.post("/api/_debug/reset", async (req, res, next) => {
   try {
     await store.reset();
     return res.json({ reset: true });
+  } catch (error) {
+    next(error);
+  }
+});
+
+// Replace 'YOUR_N8N_WEBHOOK_URL' with your n8n Email Webhook URL
+const N8N_EMAIL_WEBHOOK = process.env.N8N_EMAIL_WEBHOOK;
+
+// ---- POST /api/auth/send-otp ----
+app.post("/api/auth/send-otp", async (req, res, next) => {
+  try {
+    const { email } = req.body;
+    if (!email) return res.status(400).json({ error: "Email is required" });
+
+    const cleanEmail = email.trim().toLowerCase();
+
+    // Check if customer exists
+    const customer = await Customer.findOne({
+      email: { $regex: new RegExp(`^${cleanEmail}$`, "i") },
+    }).lean();
+
+    if (!customer) {
+      return res.json({ found: false, message: "No account found with this email" });
+    }
+
+    // Generate 6-digit code
+    const otpCode = Math.floor(100000 + Math.random() * 900000).toString();
+
+    // Clear old codes & create new record
+    await OTP.deleteMany({ email: cleanEmail });
+    await OTP.create({ email: cleanEmail, otp: otpCode, attempts: 0, status: "pending" });
+
+    // Trigger n8n to dispatch the email (asynchronous execution)
+    fetch(N8N_EMAIL_WEBHOOK, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email: cleanEmail, otp: otpCode }),
+    }).catch((err) => console.error("n8n Email Trigger Failed:", err.message));
+
+    return res.json({
+      success: true,
+      message: "OTP sent successfully to your email.",
+    });
+  } catch (error) {
+    next(error);
+  }
+});
+
+// ---- POST /api/auth/verify-otp ----
+app.post("/api/auth/verify-otp", async (req, res, next) => {
+  try {
+    const { email, otp } = req.body;
+    if (!email || !otp) {
+      return res.status(400).json({ verified: false, error: "Email and OTP are required" });
+    }
+
+    const cleanEmail = email.trim().toLowerCase();
+    const cleanOtp = otp.toString().trim();
+
+    const record = await OTP.findOne({ email: cleanEmail });
+
+    // No record or already locked out
+    if (!record || record.status === "unverified") {
+      return res.json({
+        verified: false,
+        locked: true,
+        message: "OTP session expired or locked due to too many failed attempts.",
+      });
+    }
+
+    // Check OTP Match
+    if (record.otp !== cleanOtp) {
+      record.attempts += 1;
+
+      // Exceeded 3 tries — Lock and set unverified status
+      if (record.attempts >= 3) {
+        record.status = "unverified";
+        await record.save();
+        return res.json({
+          verified: false,
+          locked: true,
+          attemptsRemaining: 0,
+          message: "Too many failed attempts. Account verification failed.",
+        });
+      }
+
+      await record.save();
+      return res.json({
+        verified: false,
+        locked: false,
+        attemptsRemaining: 3 - record.attempts,
+        message: `Invalid OTP code. You have ${3 - record.attempts} attempt(s) remaining.`,
+      });
+    }
+
+    // OTP Correct — Delete record & fetch last 3 orders
+    await OTP.deleteOne({ _id: record._id });
+
+    const customer = await Customer.findOne({
+      email: { $regex: new RegExp(`^${cleanEmail}$`, "i") },
+    }).lean();
+
+    const recentOrders = await Order.find({ customerId: customer.customerId })
+      .sort({ createdAt: -1 })
+      .limit(3)
+      .select("orderId items status total createdAt -_id")
+      .lean();
+
+    return res.json({
+      verified: true,
+      customerId: customer.customerId,
+      totalRecentOrders: recentOrders.length,
+      orders: recentOrders,
+    });
   } catch (error) {
     next(error);
   }
