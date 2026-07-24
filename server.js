@@ -10,7 +10,7 @@ const Order = require("./models/Order");
 const Policy = require("./models/Policy");
 
 dotenv.config();
-
+// jshint esversion: 6
 // Connect to MongoDB
 connectDB();
 
