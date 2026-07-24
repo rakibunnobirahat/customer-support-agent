@@ -10,7 +10,7 @@ const Order = require("./models/Order");
 const Policy = require("./models/Policy");
 
 dotenv.config();
-// jshint esversion: 6
+
 // Connect to MongoDB
 connectDB();
 
@@ -79,13 +79,21 @@ app.get("/api/policy", async (req, res, next) => {
   try {
     const { topic } = req.query;
 
-    const policy = await Policy.findOne({ topic }).select("-_id -__v").lean();
-
-    if (!policy) {
-      // Dynamically fetch available policy topics if requested topic is not found
+    if (!topic) {
       const allPolicies = await Policy.find().select("topic -_id").lean();
       const availableTopics = allPolicies.map((p) => p.topic);
+      return res.json({ found: false, availableTopics });
+    }
 
+    const policy = await Policy.findOne({
+      topic: { $regex: new RegExp(`^${topic.trim()}$`, "i") },
+    })
+      .select("-_id -__v")
+      .lean();
+
+    if (!policy) {
+      const allPolicies = await Policy.find().select("topic -_id").lean();
+      const availableTopics = allPolicies.map((p) => p.topic);
       return res.json({ found: false, availableTopics });
     }
 
@@ -93,43 +101,6 @@ app.get("/api/policy", async (req, res, next) => {
   } catch (error) {
     next(error);
   }
-});
-
-// ---- POST /api/ticket ----
-app.post("/api/ticket", (req, res) => {
-  const { customerId, orderId, category, reason, summary, sessionId } = req.body;
-  if (!category || !summary) {
-    return res.status(400).json({ error: "category and summary are required" });
-  }
-  const ticket = store.createTicket({ customerId, orderId, category, reason, summary, sessionId });
-  return res.json({ created: true, ticket });
-});
-
-// ---- POST /api/log ----
-app.post("/api/log", (req, res) => {
-  if (!req.body.sessionId) {
-    return res.status(400).json({ error: "sessionId is required" });
-  }
-  const entry = store.logTurn(req.body);
-  return res.json({ logged: true, entry });
-});
-
-// ---- Debug endpoints ----
-app.get("/api/_debug/tickets", (req, res) => res.json(store.getAllTickets()));
-app.get("/api/_debug/conversation/:sessionId", (req, res) =>
-  res.json(store.getConversation(req.params.sessionId))
-);
-app.post("/api/_debug/reset", (req, res) => {
-  store.reset();
-  res.json({ reset: true });
-});
-
-app.get("/health", (req, res) => res.json({ ok: true }));
-
-// Global Error Handler
-app.use((err, req, res, next) => {
-  console.error("API Error:", err.message);
-  res.status(500).json({ error: "Internal Server Error", message: err.message });
 });
 
 // ---- POST /api/ticket ----
@@ -155,7 +126,7 @@ app.post("/api/ticket", async (req, res, next) => {
   }
 });
 
-// ---- PATCH /api/ticket/:ticketId ---- (NEW: Update ticket status)
+// ---- PATCH /api/ticket/:ticketId ----
 app.patch("/api/ticket/:ticketId", async (req, res, next) => {
   try {
     const { ticketId } = req.params;
@@ -193,7 +164,7 @@ app.post("/api/log", async (req, res, next) => {
 app.get("/api/_debug/tickets", async (req, res, next) => {
   try {
     const tickets = await store.getAllTickets();
-    res.json(tickets);
+    return res.json(tickets);
   } catch (error) {
     next(error);
   }
@@ -202,7 +173,7 @@ app.get("/api/_debug/tickets", async (req, res, next) => {
 app.get("/api/_debug/conversation/:sessionId", async (req, res, next) => {
   try {
     const logs = await store.getConversation(req.params.sessionId);
-    res.json(logs);
+    return res.json(logs);
   } catch (error) {
     next(error);
   }
@@ -211,10 +182,18 @@ app.get("/api/_debug/conversation/:sessionId", async (req, res, next) => {
 app.post("/api/_debug/reset", async (req, res, next) => {
   try {
     await store.reset();
-    res.json({ reset: true });
+    return res.json({ reset: true });
   } catch (error) {
     next(error);
   }
+});
+
+app.get("/health", (req, res) => res.json({ ok: true }));
+
+// Global Error Handler (MUST be defined after all routes)
+app.use((err, req, res, next) => {
+  console.error("API Error:", err.message);
+  res.status(500).json({ error: "Internal Server Error", message: err.message });
 });
 
 app.listen(PORT, () => console.log(`Mock CS API listening on :${PORT}`));
