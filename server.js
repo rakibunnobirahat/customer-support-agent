@@ -8,7 +8,7 @@ const store = require("./store");
 const Customer = require("./models/Customer");
 const Order = require("./models/Order");
 const Policy = require("./models/Policy");
-const OTP = require("./models/OTP");
+const OTP = require("./models/Otp");
 
 dotenv.config();
 
