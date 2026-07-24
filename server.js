@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT;
 
 // ---- GET /api/customer?email= ----
 app.get("/api/customer", (req, res) => {
