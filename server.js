@@ -2,6 +2,13 @@ const express = require("express");
 const cors = require("cors");
 const { customers, orders, policies } = require("./data");
 const store = require("./store");
+const dotenv = require('dotenv');
+const connectDB = require('./db');
+
+dotenv.config();
+
+// Connect to MongoDB
+connectDB();
 
 const app = express();
 app.use(cors());
