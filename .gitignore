@@ -1,0 +1,96 @@
+# ==============================================================================
+# 1. DEPENDENCIES (Never track downloaded external libraries)
+# ==============================================================================
+node_modules/
+jspm_packages/
+web_modules/
+
+# Plug'n'Play entries (Yarn PnP)
+.pnp/
+.pnp.js
+
+# ==============================================================================
+# 2. APPLICATION BUILD OUTPUTS & BUNDLERS
+# ==============================================================================
+dist/
+build/
+out/
+.next/
+.nuxt/
+.remix/
+.cache/
+.parcel-cache/
+.turbo/
+out-tsc/
+
+# Production build artifacts (compiled files)
+*.tsbuildinfo
+
+# ==============================================================================
+# 3. ENVIRONMENT VARIABLES & SENSITIVE KEYS (Crucial for security)
+# ==============================================================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup configuration files
+*.env.bak
+*.env.example.bak
+
+# Private cryptographic keys
+*.pem
+*.key
+
+# ==============================================================================
+# 4. LOGS AND RUNTIME DATA
+# ==============================================================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Process manager logs (PM2)
+pm2.log
+pm2-error.log
+pm2-out.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ==============================================================================
+# 5. TESTING, COVERAGE, & LINTER CACHES
+# ==============================================================================
+coverage/
+.nyc_output/
+.jest/
+.eslintcache
+.stylelintcache
+.prettiercache
+
+# ==============================================================================
+# 6. IDEs, OS, & SYSTEM FILES
+# ==============================================================================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
