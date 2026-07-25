@@ -20,17 +20,17 @@ app.use(cors());
 app.use(express.json());
 
 // E-commerce Route Registrations
-const productRoutes = require("./routes/products");
-app.use("/api/products", productRoutes);
+// const productRoutes = require("./routes/products");
+// app.use("/api/products", productRoutes);
 
-const customerRegisterRoutes = require("./routes/customerRegister");
-app.use("/api/customer", customerRegisterRoutes);
+// const customerRegisterRoutes = require("./routes/customerRegister");
+// app.use("/api/customer", customerRegisterRoutes);
 
-const adminRoutes = require("./routes/admin");
-app.use("/api/admin", adminRoutes);
+// const adminRoutes = require("./routes/admin");
+// app.use("/api/admin", adminRoutes);
 
-const settingsRoutes = require("./routes/settings");
-app.use("/api/settings", settingsRoutes);
+// const settingsRoutes = require("./routes/settings");
+// app.use("/api/settings", settingsRoutes);
 
 const PORT = process.env.PORT || 5000;
 
