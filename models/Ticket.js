@@ -5,7 +5,12 @@ const ticketSchema = new mongoose.Schema(
     ticketId: { type: String, required: true, unique: true, index: true },
     customerId: { type: String, default: null, index: true },
     orderId: { type: String, default: null },
-    category: { type: String, required: true },
+    email: { type: String, default: null },
+    category: {
+      type: String,
+      required: true,
+      enum: ["no_data_found", "sensitive", "explicit_human_request", "tool_failure", "low_confidence"],
+    },
     reason: { type: String, default: null },
     summary: { type: String, required: true },
     sessionId: { type: String, default: null },

@@ -26,6 +26,12 @@ app.use("/api/products", productRoutes);
 const customerRegisterRoutes = require("./routes/customerRegister");
 app.use("/api/customer", customerRegisterRoutes);
 
+const adminRoutes = require("./routes/admin");
+app.use("/api/admin", adminRoutes);
+
+const settingsRoutes = require("./routes/settings");
+app.use("/api/settings", settingsRoutes);
+
 const PORT = process.env.PORT || 5000;
 
 // ---- GET /api/customer?email= ----

@@ -14,6 +14,7 @@ async function createTicket({ customerId, orderId, category, reason, summary, se
     reason: reason || null,
     summary,
     sessionId,
+    email: email || null,
     status: "pending_human",
   });
 
