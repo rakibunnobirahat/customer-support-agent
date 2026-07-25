@@ -9,20 +9,30 @@ router.get('/', async (req, res, next) => {
     const filter = {};
 
     if (category) {
-      filter.category = category;
+      filter['category.slug'] = category;
     }
-    if (tag) {
-      filter.tags = tag;
-    }
+
     if (q) {
       filter.$or = [
         { name: { $regex: q, $options: 'i' } },
-        { description: { $regex: q, $options: 'i' } },
-        { material: { $regex: q, $options: 'i' } },
+        { shortDescription: { $regex: q, $options: 'i' } }
       ];
     }
 
-    const list = await Product.find(filter).lean();
+    // Simulate 'tags' based on raw Manfare data
+    if (tag === 'bestseller') {
+      filter['review.totalReview'] = { $gt: 0 };
+    }
+    if (tag === 'new-arrival') {
+      // Products created in the last 90 days, or just highest IDs.
+      // Since it's raw data, we can just sort by ID desc and limit if we wanted, 
+      // but let's just let it pull recent ones. 
+      // A simple approximation is getting everything and sorting.
+      // For now, no strict filter on new-arrival, just sorting handles it.
+    }
+
+    // Sort by id descending (newest first)
+    const list = await Product.find(filter).sort({ id: -1 }).lean();
     return res.json(list);
   } catch (error) {
     next(error);

@@ -1,27 +1,20 @@
 const mongoose = require('mongoose');
 
+// We use strict: false so MongoDB accepts the exact Manfare schema.
+// We only define top-level fields needed for queries/indexing.
 const productSchema = new mongoose.Schema(
   {
-    slug: { type: String, required: true, unique: true, index: true },
-    name: { type: String, required: true },
-    category: { type: String, required: true, index: true },
-    price: { type: Number, required: true },
-    originalPrice: { type: Number },
-    discount: { type: Number, default: 0 },
-    rating: { type: Number, default: 5 },
-    reviewCount: { type: Number, default: 0 },
-    images: [{ type: String }],
-    colors: [{ type: String }],
-    sizes: [{ type: String }],
-    description: { type: String, required: true },
-    features: [{ type: String }],
-    inStock: { type: Boolean, default: true },
-    stockCount: { type: Number, default: 0 },
-    sku: { type: String, required: true, unique: true },
-    tags: [{ type: String }],
-    material: { type: String },
+    id:               { type: Number, required: true, unique: true },
+    slug:             { type: String, required: true, index: true },
+    name:             { type: String, required: true },
+    isLive:           { type: Boolean, default: true },
+    status:           { type: String, default: 'active' },
+    "category.slug":  { type: String, index: true },
   },
-  { timestamps: true }
+  { 
+    strict: false,       // Save everything in the raw JSON
+    timestamps: false    // Do not override Manfare's createdAt/updatedAt
+  }
 );
 
 module.exports = mongoose.model('Product', productSchema);

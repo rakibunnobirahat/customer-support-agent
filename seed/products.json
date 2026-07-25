@@ -1,0 +1,4648 @@
+[
+    {
+        "id": 25752,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Formal BOOTCUT GURKHA PANT For Men | MPANT-24",
+        "slug": "premium-formal-bootcut-gurkha-pant-for-men-mpant24",
+        "sku": "SKU-PFBGPFM|M-02487",
+        "thumbnail": "manfarebd/media/178482143297117972281_mpant_24.webp,manfarebd/media/177808024307043340729_mpant_24_2.webp",
+        "shortDescription": "",
+        "vat": 0,
+        "categoryId": 9541,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T19:24:53.415Z",
+        "updatedAt": "2026-07-23T15:44:00.000Z",
+        "category": {
+            "id": 9541,
+            "logo": null,
+            "name": "Bootcut Gurkha Pant",
+            "slug": "bootcut-gurkha-pant",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70911,
+                "productId": 25752,
+                "images": "manfarebd/media/177808024307043340729_mpant_24_2.webp,manfarebd/media/177808026317511730525_mpant_24_3.webp",
+                "sku": "SKU-PFBGPFM|M-02487-0",
+                "customSku": "MPANT-24-30",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 91,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174341,
+                        "key": "Color",
+                        "value": "Olive"
+                    },
+                    {
+                        "id": 174342,
+                        "key": "Size",
+                        "value": "30"
+                    }
+                ]
+            },
+            {
+                "id": 70912,
+                "productId": 25752,
+                "images": "manfarebd/media/177808024307043340729_mpant_24_2.webp,manfarebd/media/177808026317511730525_mpant_24_3.webp",
+                "sku": "SKU-PFBGPFM|M-02487-1",
+                "customSku": "MPANT-24-32",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 90,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174345,
+                        "key": "Color",
+                        "value": "Olive"
+                    },
+                    {
+                        "id": 174346,
+                        "key": "Size",
+                        "value": "32"
+                    }
+                ]
+            },
+            {
+                "id": 70913,
+                "productId": 25752,
+                "images": "manfarebd/media/177808024307043340729_mpant_24_2.webp,manfarebd/media/177808026317511730525_mpant_24_3.webp",
+                "sku": "SKU-PFBGPFM|M-02487-2",
+                "customSku": "MPANT-24-34",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 94,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174337,
+                        "key": "Color",
+                        "value": "Olive"
+                    },
+                    {
+                        "id": 174338,
+                        "key": "Size",
+                        "value": "34"
+                    }
+                ]
+            },
+            {
+                "id": 70914,
+                "productId": 25752,
+                "images": "manfarebd/media/177808024307043340729_mpant_24_2.webp,manfarebd/media/177808026317511730525_mpant_24_3.webp",
+                "sku": "SKU-PFBGPFM|M-02487-3",
+                "customSku": "MPANT-24-36",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 91,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174339,
+                        "key": "Color",
+                        "value": "Olive"
+                    },
+                    {
+                        "id": 174340,
+                        "key": "Size",
+                        "value": "36"
+                    }
+                ]
+            },
+            {
+                "id": 70915,
+                "productId": 25752,
+                "images": "manfarebd/media/177808024307043340729_mpant_24_2.webp,manfarebd/media/177808026317511730525_mpant_24_3.webp",
+                "sku": "SKU-PFBGPFM|M-02487-4",
+                "customSku": "MPANT-24-38",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 93,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174343,
+                        "key": "Color",
+                        "value": "Olive"
+                    },
+                    {
+                        "id": 174344,
+                        "key": "Size",
+                        "value": "38"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25751,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Formal BOOTCUT GURKHA PANT For Men | MPANT-25",
+        "slug": "premium-formal-bootcut-gurkha-pant-for-men-mpant25",
+        "sku": "SKU-PFBGPFM|M-08725",
+        "thumbnail": "manfarebd/media/178482145576449292185_mpant_25.webp,manfarebd/media/177808030483045300560_mpant_25_2.webp",
+        "shortDescription": null,
+        "vat": 0,
+        "categoryId": 9541,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T19:23:12.010Z",
+        "updatedAt": "2026-07-23T15:44:22.000Z",
+        "category": {
+            "id": 9541,
+            "logo": null,
+            "name": "Bootcut Gurkha Pant",
+            "slug": "bootcut-gurkha-pant",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70906,
+                "productId": 25751,
+                "images": "manfarebd/media/177808030483045300560_mpant_25_2.webp,manfarebd/media/177808030923341596675_mpant_25_3.webp",
+                "sku": "SKU-PFBGPFM|M-08725-0",
+                "customSku": "MPANT-25-30",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 74,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174347,
+                        "key": "Color",
+                        "value": "Black"
+                    },
+                    {
+                        "id": 174348,
+                        "key": "Size",
+                        "value": "30"
+                    }
+                ]
+            },
+            {
+                "id": 70907,
+                "productId": 25751,
+                "images": "manfarebd/media/177808030483045300560_mpant_25_2.webp,manfarebd/media/177808030923341596675_mpant_25_3.webp",
+                "sku": "SKU-PFBGPFM|M-08725-1",
+                "customSku": "MPANT-25-32",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 72,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174353,
+                        "key": "Color",
+                        "value": "Black"
+                    },
+                    {
+                        "id": 174354,
+                        "key": "Size",
+                        "value": "32"
+                    }
+                ]
+            },
+            {
+                "id": 70908,
+                "productId": 25751,
+                "images": "manfarebd/media/177808030483045300560_mpant_25_2.webp,manfarebd/media/177808030923341596675_mpant_25_3.webp",
+                "sku": "SKU-PFBGPFM|M-08725-2",
+                "customSku": "MPANT-25-34",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 74,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174349,
+                        "key": "Color",
+                        "value": "Black"
+                    },
+                    {
+                        "id": 174350,
+                        "key": "Size",
+                        "value": "34"
+                    }
+                ]
+            },
+            {
+                "id": 70909,
+                "productId": 25751,
+                "images": "manfarebd/media/177808030483045300560_mpant_25_2.webp,manfarebd/media/177808030923341596675_mpant_25_3.webp",
+                "sku": "SKU-PFBGPFM|M-08725-3",
+                "customSku": "MPANT-25-36",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174895,
+                        "key": "Color",
+                        "value": "Black"
+                    },
+                    {
+                        "id": 174896,
+                        "key": "Size",
+                        "value": "36"
+                    }
+                ]
+            },
+            {
+                "id": 70910,
+                "productId": 25751,
+                "images": "manfarebd/media/177808030483045300560_mpant_25_2.webp,manfarebd/media/177808030923341596675_mpant_25_3.webp",
+                "sku": "SKU-PFBGPFM|M-08725-4",
+                "customSku": "MPANT-25-38",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 78,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174355,
+                        "key": "Color",
+                        "value": "Black"
+                    },
+                    {
+                        "id": 174356,
+                        "key": "Size",
+                        "value": "38"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 22282,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Acid Wash - Most Trendy Drop Shoulder T Shirt | MF-720",
+        "slug": "acid-wash-most-trendy-drop-shoulder-t-shirt-mf720",
+        "sku": "SKU-AW-MTDSTS|M-07335",
+        "thumbnail": "manfarebd/media/175915208258595628550_mf_720_2.webp,manfarebd/media/175915205242997359033_mf_720_1.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;padding:10px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:inline-flex;gap:14px;padding:12px 16px;\"><!-- Icon --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><rect x=\"1\" y=\"3\" width=\"15\" height=\"13\" rx=\"1\"></rect><path d=\"M16 8h4l3 5v3h-7V8z\"></path><circle cx=\"5.5\" cy=\"18.5\" r=\"1.5\"></circle><circle cx=\"18.5\" cy=\"18.5\" r=\"1.5\"></circle></svg></div><!-- Text --><div style=\"padding-right:20px;\"><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 3px;\"><strong>Buy any 2, Get Free Delivery</strong></p></div></div></div>",
+        "vat": 0,
+        "categoryId": 3826,
+        "brandId": 152,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2025-09-29T13:22:11.633Z",
+        "updatedAt": "2026-07-20T09:56:33.000Z",
+        "category": {
+            "id": 3826,
+            "logo": null,
+            "name": "Drop Shoulder T-Shirt",
+            "slug": "drop-shoulder-tshirt",
+            "leaf": true
+        },
+        "brand": {
+            "id": 152,
+            "logo": "manfarebd/media/1730205049855-manfarebd-id-13.jpeg",
+            "slug": "manfare",
+            "name": "manfare"
+        },
+        "skus": [
+            {
+                "id": 59799,
+                "productId": 22282,
+                "images": "",
+                "sku": "SKU-AW-MTDSTS|M-07335-0",
+                "customSku": "MF-720-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 24,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166216,
+                        "key": "Color",
+                        "value": "Bottle Green"
+                    },
+                    {
+                        "id": 166217,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 59800,
+                "productId": 22282,
+                "images": "",
+                "sku": "SKU-AW-MTDSTS|M-07335-1",
+                "customSku": "MF-720-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 11,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166218,
+                        "key": "Color",
+                        "value": "Bottle Green"
+                    },
+                    {
+                        "id": 166219,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 59801,
+                "productId": 22282,
+                "images": "",
+                "sku": "SKU-AW-MTDSTS|M-07335-2",
+                "customSku": "MF-720-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 9,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166220,
+                        "key": "Color",
+                        "value": "Bottle Green"
+                    },
+                    {
+                        "id": 166221,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 59802,
+                "productId": 22282,
+                "images": "",
+                "sku": "SKU-AW-MTDSTS|M-07335-3",
+                "customSku": "MF-720-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 19,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166222,
+                        "key": "Color",
+                        "value": "Bottle Green"
+                    },
+                    {
+                        "id": 166223,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 22259,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Acid Wash - Most Trendy Drop Shoulder T Shirt | MF-704",
+        "slug": "acid-wash-most-trendy-drop-shoulder-t-shirt-mf704",
+        "sku": "SKU-AW-MTDSTS|M-05035",
+        "thumbnail": "manfarebd/media/175914877895358334156_mf_704_2.webp,manfarebd/media/175914874983454887423_mf_704_1.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;padding:10px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:inline-flex;gap:14px;padding:12px 16px;\"><!-- Icon --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><rect x=\"1\" y=\"3\" width=\"15\" height=\"13\" rx=\"1\"></rect><path d=\"M16 8h4l3 5v3h-7V8z\"></path><circle cx=\"5.5\" cy=\"18.5\" r=\"1.5\"></circle><circle cx=\"18.5\" cy=\"18.5\" r=\"1.5\"></circle></svg></div><!-- Text --><div style=\"padding-right:20px;\"><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 3px;\"><strong>Buy any 2, Get Free Delivery</strong></p></div></div></div>",
+        "vat": 0,
+        "categoryId": 3826,
+        "brandId": 152,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2025-09-29T12:27:05.057Z",
+        "updatedAt": "2026-07-20T10:07:54.000Z",
+        "category": {
+            "id": 3826,
+            "logo": null,
+            "name": "Drop Shoulder T-Shirt",
+            "slug": "drop-shoulder-tshirt",
+            "leaf": true
+        },
+        "brand": {
+            "id": 152,
+            "logo": "manfarebd/media/1730205049855-manfarebd-id-13.jpeg",
+            "slug": "manfare",
+            "name": "manfare"
+        },
+        "skus": [
+            {
+                "id": 59689,
+                "productId": 22259,
+                "images": "manfarebd/media/175914877895358334156_mf_704_2.webp,manfarebd/media/175914878616653695816_mf_704_3.webp,manfarebd/media/175914879406350344160_mf_704_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-05035-0",
+                "customSku": "MF-704-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 26,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166332,
+                        "key": "Color",
+                        "value": "Anthra Melange"
+                    },
+                    {
+                        "id": 166333,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 59690,
+                "productId": 22259,
+                "images": "manfarebd/media/175914877895358334156_mf_704_2.webp,manfarebd/media/175914878616653695816_mf_704_3.webp,manfarebd/media/175914879406350344160_mf_704_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-05035-1",
+                "customSku": "MF-704-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 27,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166466,
+                        "key": "Color",
+                        "value": "Anthra Melange"
+                    },
+                    {
+                        "id": 166467,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 59691,
+                "productId": 22259,
+                "images": "manfarebd/media/175914877895358334156_mf_704_2.webp,manfarebd/media/175914878616653695816_mf_704_3.webp,manfarebd/media/175914879406350344160_mf_704_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-05035-2",
+                "customSku": "MF-704-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 16,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166330,
+                        "key": "Color",
+                        "value": "Anthra Melange"
+                    },
+                    {
+                        "id": 166331,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 59692,
+                "productId": 22259,
+                "images": "manfarebd/media/175914877895358334156_mf_704_2.webp,manfarebd/media/175914878616653695816_mf_704_3.webp,manfarebd/media/175914879406350344160_mf_704_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-05035-3",
+                "customSku": "MF-704-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 29,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166334,
+                        "key": "Color",
+                        "value": "Anthra Melange"
+                    },
+                    {
+                        "id": 166335,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": {
+            "product_id": 22259,
+            "avgRating": 5,
+            "totalReview": 1
+        }
+    },
+    {
+        "id": 22265,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Acid Wash - Most Trendy Drop Shoulder T Shirt | MF-708",
+        "slug": "acid-wash-most-trendy-drop-shoulder-t-shirt-mf708",
+        "sku": "SKU-AW-MTDSTS|M-09389",
+        "thumbnail": "manfarebd/media/175914938965811656371_mf_708_2.webp,manfarebd/media/175914936321495353986_mf_708_1.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;padding:10px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:inline-flex;gap:14px;padding:12px 16px;\"><!-- Icon --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><rect x=\"1\" y=\"3\" width=\"15\" height=\"13\" rx=\"1\"></rect><path d=\"M16 8h4l3 5v3h-7V8z\"></path><circle cx=\"5.5\" cy=\"18.5\" r=\"1.5\"></circle><circle cx=\"18.5\" cy=\"18.5\" r=\"1.5\"></circle></svg></div><!-- Text --><div style=\"padding-right:20px;\"><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 3px;\"><strong>Buy any 2, Get Free Delivery</strong></p></div></div></div>",
+        "vat": 0,
+        "categoryId": 3826,
+        "brandId": 152,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2025-09-29T12:37:09.733Z",
+        "updatedAt": "2026-07-20T10:36:33.000Z",
+        "category": {
+            "id": 3826,
+            "logo": null,
+            "name": "Drop Shoulder T-Shirt",
+            "slug": "drop-shoulder-tshirt",
+            "leaf": true
+        },
+        "brand": {
+            "id": 152,
+            "logo": "manfarebd/media/1730205049855-manfarebd-id-13.jpeg",
+            "slug": "manfare",
+            "name": "manfare"
+        },
+        "skus": [
+            {
+                "id": 59711,
+                "productId": 22265,
+                "images": "manfarebd/media/175914938965811656371_mf_708_2.webp,manfarebd/media/175914939836561591483_mf_708_3.webp,manfarebd/media/175914940469641332867_mf_708_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-09389-0",
+                "customSku": "MF-708-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 50,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174401,
+                        "key": "Color",
+                        "value": "Acid Wash Black"
+                    },
+                    {
+                        "id": 174402,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 59712,
+                "productId": 22265,
+                "images": "manfarebd/media/175914938965811656371_mf_708_2.webp,manfarebd/media/175914939836561591483_mf_708_3.webp,manfarebd/media/175914940469641332867_mf_708_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-09389-1",
+                "customSku": "MF-708-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 49,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174397,
+                        "key": "Color",
+                        "value": "Acid Wash Black"
+                    },
+                    {
+                        "id": 174398,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 59713,
+                "productId": 22265,
+                "images": "manfarebd/media/175914938965811656371_mf_708_2.webp,manfarebd/media/175914939836561591483_mf_708_3.webp,manfarebd/media/175914940469641332867_mf_708_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-09389-2",
+                "customSku": "MF-708-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 50,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174395,
+                        "key": "Color",
+                        "value": "Acid Wash Black"
+                    },
+                    {
+                        "id": 174396,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 59714,
+                "productId": 22265,
+                "images": "manfarebd/media/175914938965811656371_mf_708_2.webp,manfarebd/media/175914939836561591483_mf_708_3.webp,manfarebd/media/175914940469641332867_mf_708_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-09389-3",
+                "customSku": "MF-708-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 49,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174399,
+                        "key": "Color",
+                        "value": "Acid Wash Black"
+                    },
+                    {
+                        "id": 174400,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25744,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Knitted Polo Shirt For Men | MFP-45",
+        "slug": "premium-knitted-polo-shirt-for-men-mfp45",
+        "sku": "SKU-PKPSFM|M-02242",
+        "thumbnail": "manfarebd/media/177780862731894559876_mfp_45_1.webp,manfarebd/media/177780862353417546406_mfp_45_2.webp",
+        "shortDescription": null,
+        "vat": 0,
+        "categoryId": 9539,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T11:48:22.081Z",
+        "updatedAt": "2026-07-01T14:28:59.000Z",
+        "category": {
+            "id": 9539,
+            "logo": null,
+            "name": "Knitted Polo",
+            "slug": "knitted-polo",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70875,
+                "productId": 25744,
+                "images": "manfarebd/media/177780862353417546406_mfp_45_2.webp,manfarebd/media/177780861953960888447_mfp_45_3.webp,manfarebd/media/177780861542956919150_mfp_45_4.webp",
+                "sku": "SKU-PKPSFM|M-02242-0",
+                "customSku": "MFP-45-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 170533,
+                        "key": "Color",
+                        "value": "Teal"
+                    },
+                    {
+                        "id": 170534,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70876,
+                "productId": 25744,
+                "images": "manfarebd/media/177780862353417546406_mfp_45_2.webp,manfarebd/media/177780861953960888447_mfp_45_3.webp,manfarebd/media/177780861542956919150_mfp_45_4.webp",
+                "sku": "SKU-PKPSFM|M-02242-1",
+                "customSku": "MFP-45-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172075,
+                        "key": "Color",
+                        "value": "Teal"
+                    },
+                    {
+                        "id": 172076,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70877,
+                "productId": 25744,
+                "images": "manfarebd/media/177780862353417546406_mfp_45_2.webp,manfarebd/media/177780861953960888447_mfp_45_3.webp,manfarebd/media/177780861542956919150_mfp_45_4.webp",
+                "sku": "SKU-PKPSFM|M-02242-2",
+                "customSku": "MFP-45-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172071,
+                        "key": "Color",
+                        "value": "Teal"
+                    },
+                    {
+                        "id": 172072,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70878,
+                "productId": 25744,
+                "images": "manfarebd/media/177780862353417546406_mfp_45_2.webp,manfarebd/media/177780861953960888447_mfp_45_3.webp,manfarebd/media/177780861542956919150_mfp_45_4.webp",
+                "sku": "SKU-PKPSFM|M-02242-3",
+                "customSku": "MFP-45-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 6,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172073,
+                        "key": "Color",
+                        "value": "Teal"
+                    },
+                    {
+                        "id": 172074,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25693,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Half Sleeve Printed Casual Shirt For Men | MS-210",
+        "slug": "half-sleeve-printed-casual-shirt-for-men-ms210",
+        "sku": "SKU-HSPCSFM|M-02682",
+        "thumbnail": "manfarebd/media/177738906055579092966_ms_210.webp,manfarebd/media/178333297907418922531_ms_2104.webp,manfarebd/media/177686931060757124150_ms_210_2.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;max-width:420px;padding:20px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:flex;gap:14px;justify-content:space-between;padding:12px 16px;\"><div style=\"align-items:center;display:flex;gap:12px;\"><!-- Icon box --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><path d=\"M6 2L2 7l3 1v13h14V8l3-1-4-5c0 0-1.5 2-4 2s-4-2-4-2z\"></path></svg></div><!-- Text --><div><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 2px;\"><strong>Stock Clearance Offer</strong></p><p style=\"color:#8c6040;font-size:12px;margin:0;\">Limited Stock - 2 Days Left</p></div></div><!-- 50% badge --><div style=\"background-color:#a07850;border-radius:8px;flex-shrink:0;padding:6px 14px;text-align:center;\"><p style=\"color:#fff;font-size:28px;line-height:1.1;margin:0;\"><strong>50%</strong></p><p style=\"color:#f5e6d8;font-size:10px;letter-spacing:0.08em;margin:0;\">DISCOUNT</p></div></div></div>",
+        "vat": 0,
+        "categoryId": 9538,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-04-22T16:08:03.266Z",
+        "updatedAt": "2026-07-23T08:39:40.000Z",
+        "category": {
+            "id": 9538,
+            "logo": null,
+            "name": "Half Sleeve Shirt",
+            "slug": "half-sleeve-shirt",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70708,
+                "productId": 25693,
+                "images": "manfarebd/media/177686931060757124150_ms_210_2.webp,manfarebd/media/178333297907418922531_ms_2104.webp",
+                "sku": "SKU-HSPCSFM|M-02682-1",
+                "customSku": "MS-210-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 28,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174877,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174878,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70709,
+                "productId": 25693,
+                "images": "manfarebd/media/177686931060757124150_ms_210_2.webp,manfarebd/media/178333297907418922531_ms_2104.webp",
+                "sku": "SKU-HSPCSFM|M-02682-2",
+                "customSku": "MS-210-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174515,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174516,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70710,
+                "productId": 25693,
+                "images": "manfarebd/media/177686931060757124150_ms_210_2.webp,manfarebd/media/178333297907418922531_ms_2104.webp",
+                "sku": "SKU-HSPCSFM|M-02682-3",
+                "customSku": "MS-210-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 6,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174879,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174880,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25684,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Half Sleeve Printed Casual Shirt For Men | MS-224",
+        "slug": "half-sleeve-printed-casual-shirt-for-men-ms224",
+        "sku": "SKU-HSPCSFM|M-07327",
+        "thumbnail": "manfarebd/media/177781831772949425692_ms_224_1.webp,manfarebd/media/178333355902476248457_ms_2244.webp,manfarebd/media/177781832663177371902_ms_224_2.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;max-width:420px;padding:20px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:flex;gap:14px;justify-content:space-between;padding:12px 16px;\"><div style=\"align-items:center;display:flex;gap:12px;\"><!-- Icon box --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><path d=\"M6 2L2 7l3 1v13h14V8l3-1-4-5c0 0-1.5 2-4 2s-4-2-4-2z\"></path></svg></div><!-- Text --><div><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 2px;\"><strong>Stock Clearance Offer</strong></p><p style=\"color:#8c6040;font-size:12px;margin:0;\">Limited Stock - 2 Days Left</p></div></div><!-- 50% badge --><div style=\"background-color:#a07850;border-radius:8px;flex-shrink:0;padding:6px 14px;text-align:center;\"><p style=\"color:#fff;font-size:28px;line-height:1.1;margin:0;\"><strong>50%</strong></p><p style=\"color:#f5e6d8;font-size:10px;letter-spacing:0.08em;margin:0;\">DISCOUNT</p></div></div></div>",
+        "vat": 0,
+        "categoryId": 9538,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-04-22T15:46:41.547Z",
+        "updatedAt": "2026-07-23T08:44:21.000Z",
+        "category": {
+            "id": 9538,
+            "logo": null,
+            "name": "Half Sleeve Shirt",
+            "slug": "half-sleeve-shirt",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70671,
+                "productId": 25684,
+                "images": "manfarebd/media/177781832663177371902_ms_224_2.webp,manfarebd/media/178333355902476248457_ms_2244.webp",
+                "sku": "SKU-HSPCSFM|M-07327-0",
+                "customSku": "MS-224-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174893,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174894,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70672,
+                "productId": 25684,
+                "images": "manfarebd/media/177781832663177371902_ms_224_2.webp,manfarebd/media/178333355902476248457_ms_2244.webp",
+                "sku": "SKU-HSPCSFM|M-07327-1",
+                "customSku": "MS-224-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 1,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174783,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174784,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70673,
+                "productId": 25684,
+                "images": "manfarebd/media/177781832663177371902_ms_224_2.webp,manfarebd/media/178333355902476248457_ms_2244.webp",
+                "sku": "SKU-HSPCSFM|M-07327-2",
+                "customSku": "MS-224-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 6,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174779,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174780,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70674,
+                "productId": 25684,
+                "images": "manfarebd/media/177781832663177371902_ms_224_2.webp,manfarebd/media/178333355902476248457_ms_2244.webp",
+                "sku": "SKU-HSPCSFM|M-07327-3",
+                "customSku": "MS-224-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174777,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174778,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 22279,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Acid Wash - Most Trendy Drop Shoulder T Shirt | MF-717",
+        "slug": "acid-wash-most-trendy-drop-shoulder-t-shirt-mf717",
+        "sku": "SKU-AW-MTDSTS|M-07735",
+        "thumbnail": "manfarebd/media/175915153438978731066_mf_717_2.webp,manfarebd/media/175915143686313684736_mf_717_1.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;padding:10px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:inline-flex;gap:14px;padding:12px 16px;\"><!-- Icon --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><rect x=\"1\" y=\"3\" width=\"15\" height=\"13\" rx=\"1\"></rect><path d=\"M16 8h4l3 5v3h-7V8z\"></path><circle cx=\"5.5\" cy=\"18.5\" r=\"1.5\"></circle><circle cx=\"18.5\" cy=\"18.5\" r=\"1.5\"></circle></svg></div><!-- Text --><div style=\"padding-right:20px;\"><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 3px;\"><strong>Buy any 2, Get Free Delivery</strong></p></div></div></div>",
+        "vat": 0,
+        "categoryId": 3826,
+        "brandId": 152,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2025-09-29T13:13:27.585Z",
+        "updatedAt": "2026-07-20T10:36:24.000Z",
+        "category": {
+            "id": 3826,
+            "logo": null,
+            "name": "Drop Shoulder T-Shirt",
+            "slug": "drop-shoulder-tshirt",
+            "leaf": true
+        },
+        "brand": {
+            "id": 152,
+            "logo": "manfarebd/media/1730205049855-manfarebd-id-13.jpeg",
+            "slug": "manfare",
+            "name": "manfare"
+        },
+        "skus": [
+            {
+                "id": 59787,
+                "productId": 22279,
+                "images": "manfarebd/media/175915153438978731066_mf_717_2.webp,manfarebd/media/175915153960491636220_mf_717_3.webp,manfarebd/media/175915154556316896911_mf_717_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-07735-0",
+                "customSku": "MF-717-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 50,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174387,
+                        "key": "Color",
+                        "value": "Anthra Melange"
+                    },
+                    {
+                        "id": 174388,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 59788,
+                "productId": 22279,
+                "images": "manfarebd/media/175915153438978731066_mf_717_2.webp,manfarebd/media/175915153960491636220_mf_717_3.webp,manfarebd/media/175915154556316896911_mf_717_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-07735-1",
+                "customSku": "MF-717-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 49,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174389,
+                        "key": "Color",
+                        "value": "Anthra Melange"
+                    },
+                    {
+                        "id": 174390,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 59789,
+                "productId": 22279,
+                "images": "manfarebd/media/175915153438978731066_mf_717_2.webp,manfarebd/media/175915153960491636220_mf_717_3.webp,manfarebd/media/175915154556316896911_mf_717_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-07735-2",
+                "customSku": "MF-717-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 50,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174391,
+                        "key": "Color",
+                        "value": "Anthra Melange"
+                    },
+                    {
+                        "id": 174392,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 59790,
+                "productId": 22279,
+                "images": "manfarebd/media/175915153438978731066_mf_717_2.webp,manfarebd/media/175915153960491636220_mf_717_3.webp,manfarebd/media/175915154556316896911_mf_717_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-07735-3",
+                "customSku": "MF-717-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 50,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174393,
+                        "key": "Color",
+                        "value": "Anthra Melange"
+                    },
+                    {
+                        "id": 174394,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": {
+            "product_id": 22279,
+            "avgRating": 5,
+            "totalReview": 1
+        }
+    },
+    {
+        "id": 22255,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Acid Wash - Most Trendy Drop Shoulder T Shirt | MF-700",
+        "slug": "acid-wash-most-trendy-drop-shoulder-t-shirt-mf700",
+        "sku": "SKU-AW-MTDSTS|M-04558",
+        "thumbnail": "manfarebd/media/175914741033146033399_mf_700_2.webp,manfarebd/media/175914736820578083636_mf_700_1.webp,manfarebd/media/178118533207767353350_mf_700_4.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;padding:10px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:inline-flex;gap:14px;padding:12px 16px;\"><!-- Icon --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><rect x=\"1\" y=\"3\" width=\"15\" height=\"13\" rx=\"1\"></rect><path d=\"M16 8h4l3 5v3h-7V8z\"></path><circle cx=\"5.5\" cy=\"18.5\" r=\"1.5\"></circle><circle cx=\"18.5\" cy=\"18.5\" r=\"1.5\"></circle></svg></div><!-- Text --><div style=\"padding-right:20px;\"><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 3px;\"><strong>Buy any 2, Get Free Delivery</strong></p></div></div></div>",
+        "vat": 0,
+        "categoryId": 3826,
+        "brandId": 152,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2025-09-29T12:04:14.815Z",
+        "updatedAt": "2026-07-20T10:36:56.000Z",
+        "category": {
+            "id": 3826,
+            "logo": null,
+            "name": "Drop Shoulder T-Shirt",
+            "slug": "drop-shoulder-tshirt",
+            "leaf": true
+        },
+        "brand": {
+            "id": 152,
+            "logo": "manfarebd/media/1730205049855-manfarebd-id-13.jpeg",
+            "slug": "manfare",
+            "name": "manfare"
+        },
+        "skus": [
+            {
+                "id": 59673,
+                "productId": 22255,
+                "images": "manfarebd/media/175914741033146033399_mf_700_2.webp,manfarebd/media/175914742024115079958_mf_700_3.webp",
+                "sku": "SKU-AW-MTDSTS|M-04558-0",
+                "customSku": "MF-700-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 49,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174407,
+                        "key": "Color",
+                        "value": "Maroon"
+                    },
+                    {
+                        "id": 174408,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 59674,
+                "productId": 22255,
+                "images": "manfarebd/media/175914741033146033399_mf_700_2.webp,manfarebd/media/175914742024115079958_mf_700_3.webp",
+                "sku": "SKU-AW-MTDSTS|M-04558-1",
+                "customSku": "MF-700-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 50,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174403,
+                        "key": "Color",
+                        "value": "Maroon"
+                    },
+                    {
+                        "id": 174404,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 59675,
+                "productId": 22255,
+                "images": "manfarebd/media/175914741033146033399_mf_700_2.webp,manfarebd/media/175914742024115079958_mf_700_3.webp",
+                "sku": "SKU-AW-MTDSTS|M-04558-2",
+                "customSku": "MF-700-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 50,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174405,
+                        "key": "Color",
+                        "value": "Maroon"
+                    },
+                    {
+                        "id": 174406,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 59676,
+                "productId": 22255,
+                "images": "manfarebd/media/175914741033146033399_mf_700_2.webp,manfarebd/media/175914742024115079958_mf_700_3.webp",
+                "sku": "SKU-AW-MTDSTS|M-04558-3",
+                "customSku": "MF-700-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 50,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174409,
+                        "key": "Color",
+                        "value": "Maroon"
+                    },
+                    {
+                        "id": 174410,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 22256,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Acid Wash - Most Trendy Drop Shoulder T Shirt | MF-701",
+        "slug": "acid-wash-most-trendy-drop-shoulder-t-shirt-mf701",
+        "sku": "SKU-AW-MTDSTS|M-05437",
+        "thumbnail": "manfarebd/media/175914763837385998834_mf_701_2.webp,manfarebd/media/175914761151737843230_mf_701_1.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;padding:10px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:inline-flex;gap:14px;padding:12px 16px;\"><!-- Icon --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><rect x=\"1\" y=\"3\" width=\"15\" height=\"13\" rx=\"1\"></rect><path d=\"M16 8h4l3 5v3h-7V8z\"></path><circle cx=\"5.5\" cy=\"18.5\" r=\"1.5\"></circle><circle cx=\"18.5\" cy=\"18.5\" r=\"1.5\"></circle></svg></div><!-- Text --><div style=\"padding-right:20px;\"><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 3px;\"><strong>Buy any 2, Get Free Delivery</strong></p></div></div></div>",
+        "vat": 0,
+        "categoryId": 3826,
+        "brandId": 152,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2025-09-29T12:08:12.126Z",
+        "updatedAt": "2026-07-20T10:08:10.000Z",
+        "category": {
+            "id": 3826,
+            "logo": null,
+            "name": "Drop Shoulder T-Shirt",
+            "slug": "drop-shoulder-tshirt",
+            "leaf": true
+        },
+        "brand": {
+            "id": 152,
+            "logo": "manfarebd/media/1730205049855-manfarebd-id-13.jpeg",
+            "slug": "manfare",
+            "name": "manfare"
+        },
+        "skus": [
+            {
+                "id": 59677,
+                "productId": 22256,
+                "images": "manfarebd/media/175914763837385998834_mf_701_2.webp,manfarebd/media/175914764635482778440_mf_696_3.webp,manfarebd/media/175914765513782835791_mf_696_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-05437-0",
+                "customSku": "MF-701-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 73,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 167109,
+                        "key": "Color",
+                        "value": "Biscuit"
+                    },
+                    {
+                        "id": 167110,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 59678,
+                "productId": 22256,
+                "images": "manfarebd/media/175914763837385998834_mf_701_2.webp,manfarebd/media/175914764635482778440_mf_696_3.webp,manfarebd/media/175914765513782835791_mf_696_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-05437-1",
+                "customSku": "MF-701-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 87,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 167107,
+                        "key": "Color",
+                        "value": "Biscuit"
+                    },
+                    {
+                        "id": 167108,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 59679,
+                "productId": 22256,
+                "images": "manfarebd/media/175914763837385998834_mf_701_2.webp,manfarebd/media/175914764635482778440_mf_696_3.webp,manfarebd/media/175914765513782835791_mf_696_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-05437-2",
+                "customSku": "MF-701-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 76,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 167111,
+                        "key": "Color",
+                        "value": "Biscuit"
+                    },
+                    {
+                        "id": 167112,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 59680,
+                "productId": 22256,
+                "images": "manfarebd/media/175914763837385998834_mf_701_2.webp,manfarebd/media/175914764635482778440_mf_696_3.webp,manfarebd/media/175914765513782835791_mf_696_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-05437-3",
+                "customSku": "MF-701-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 75,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 167113,
+                        "key": "Color",
+                        "value": "Biscuit"
+                    },
+                    {
+                        "id": 167114,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": {
+            "product_id": 22256,
+            "avgRating": 5,
+            "totalReview": 1
+        }
+    },
+    {
+        "id": 25742,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Knitted Polo Shirt For Men | MFP-47",
+        "slug": "premium-knitted-polo-shirt-for-men-mfp47",
+        "sku": "SKU-PKPSFM|M-03302",
+        "thumbnail": "manfarebd/media/177780829717534573310_mfp_47_1.webp,manfarebd/media/177780829285142377671_mfp_47_2.webp",
+        "shortDescription": null,
+        "vat": 0,
+        "categoryId": 9539,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T11:39:07.974Z",
+        "updatedAt": "2026-07-01T14:29:26.000Z",
+        "category": {
+            "id": 9539,
+            "logo": null,
+            "name": "Knitted Polo",
+            "slug": "knitted-polo",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70867,
+                "productId": 25742,
+                "images": "manfarebd/media/177780829285142377671_mfp_47_2.webp,manfarebd/media/177780828893040939427_mfp_47_3.webp,manfarebd/media/177780828550115987426_mfp_47_4.webp",
+                "sku": "SKU-PKPSFM|M-03302-0",
+                "customSku": "MFP-47-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 18,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172085,
+                        "key": "Color",
+                        "value": "Coffee"
+                    },
+                    {
+                        "id": 172086,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70868,
+                "productId": 25742,
+                "images": "manfarebd/media/177780829285142377671_mfp_47_2.webp,manfarebd/media/177780828893040939427_mfp_47_3.webp,manfarebd/media/177780828550115987426_mfp_47_4.webp",
+                "sku": "SKU-PKPSFM|M-03302-1",
+                "customSku": "MFP-47-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 170545,
+                        "key": "Color",
+                        "value": "Coffee"
+                    },
+                    {
+                        "id": 170546,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70869,
+                "productId": 25742,
+                "images": "manfarebd/media/177780829285142377671_mfp_47_2.webp,manfarebd/media/177780828893040939427_mfp_47_3.webp,manfarebd/media/177780828550115987426_mfp_47_4.webp",
+                "sku": "SKU-PKPSFM|M-03302-2",
+                "customSku": "MFP-47-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 170541,
+                        "key": "Color",
+                        "value": "Coffee"
+                    },
+                    {
+                        "id": 170542,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70870,
+                "productId": 25742,
+                "images": "manfarebd/media/177780829285142377671_mfp_47_2.webp,manfarebd/media/177780828893040939427_mfp_47_3.webp,manfarebd/media/177780828550115987426_mfp_47_4.webp",
+                "sku": "SKU-PKPSFM|M-03302-3",
+                "customSku": "MFP-47-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 170539,
+                        "key": "Color",
+                        "value": "Coffee"
+                    },
+                    {
+                        "id": 170540,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25741,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Knitted Polo Shirt For Men | MFP-48",
+        "slug": "premium-knitted-polo-shirt-for-men-mfp48",
+        "sku": "SKU-PKPSFM|M-09856",
+        "thumbnail": "manfarebd/media/177780821706449403978_mfp_48_1.webp,manfarebd/media/177780821335615846163_mfp_48_2.webp",
+        "shortDescription": null,
+        "vat": 0,
+        "categoryId": 9539,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T11:37:37.265Z",
+        "updatedAt": "2026-07-01T14:29:42.000Z",
+        "category": {
+            "id": 9539,
+            "logo": null,
+            "name": "Knitted Polo",
+            "slug": "knitted-polo",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70863,
+                "productId": 25741,
+                "images": "manfarebd/media/177780821335615846163_mfp_48_2.webp,manfarebd/media/177780820926456329383_mfp_48_3.webp,manfarebd/media/177780820529091047703_mfp_48_4.webp",
+                "sku": "SKU-PKPSFM|M-09856-0",
+                "customSku": "MFP-48-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 13,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172089,
+                        "key": "Color",
+                        "value": "Brown"
+                    },
+                    {
+                        "id": 172090,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70864,
+                "productId": 25741,
+                "images": "manfarebd/media/177780821335615846163_mfp_48_2.webp,manfarebd/media/177780820926456329383_mfp_48_3.webp,manfarebd/media/177780820529091047703_mfp_48_4.webp",
+                "sku": "SKU-PKPSFM|M-09856-1",
+                "customSku": "MFP-48-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 31,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 170553,
+                        "key": "Color",
+                        "value": "Brown"
+                    },
+                    {
+                        "id": 170554,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70865,
+                "productId": 25741,
+                "images": "manfarebd/media/177780821335615846163_mfp_48_2.webp,manfarebd/media/177780820926456329383_mfp_48_3.webp,manfarebd/media/177780820529091047703_mfp_48_4.webp",
+                "sku": "SKU-PKPSFM|M-09856-2",
+                "customSku": "MFP-48-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 6,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172091,
+                        "key": "Color",
+                        "value": "Brown"
+                    },
+                    {
+                        "id": 172092,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70866,
+                "productId": 25741,
+                "images": "manfarebd/media/177780821335615846163_mfp_48_2.webp,manfarebd/media/177780820926456329383_mfp_48_3.webp,manfarebd/media/177780820529091047703_mfp_48_4.webp",
+                "sku": "SKU-PKPSFM|M-09856-3",
+                "customSku": "MFP-48-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 2,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172087,
+                        "key": "Color",
+                        "value": "Brown"
+                    },
+                    {
+                        "id": 172088,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25686,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Half Sleeve Printed Casual Shirt For Men | MS-204",
+        "slug": "half-sleeve-printed-casual-shirt-for-men-ms204",
+        "sku": "SKU-HSPCSFM|M-09522",
+        "thumbnail": "manfarebd/media/177738905695311795583_ms_204.webp,manfarebd/media/177686930052461389453_ms_204_2.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;max-width:420px;padding:20px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:flex;gap:14px;justify-content:space-between;padding:12px 16px;\"><div style=\"align-items:center;display:flex;gap:12px;\"><!-- Icon box --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><path d=\"M6 2L2 7l3 1v13h14V8l3-1-4-5c0 0-1.5 2-4 2s-4-2-4-2z\"></path></svg></div><!-- Text --><div><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 2px;\"><strong>Stock Clearance Offer</strong></p><p style=\"color:#8c6040;font-size:12px;margin:0;\">Limited Stock - 2 Days Left</p></div></div><!-- 50% badge --><div style=\"background-color:#a07850;border-radius:8px;flex-shrink:0;padding:6px 14px;text-align:center;\"><p style=\"color:#fff;font-size:28px;line-height:1.1;margin:0;\"><strong>50%</strong></p><p style=\"color:#f5e6d8;font-size:10px;letter-spacing:0.08em;margin:0;\">DISCOUNT</p></div></div></div>",
+        "vat": 0,
+        "categoryId": 9538,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-04-22T15:55:59.658Z",
+        "updatedAt": "2026-07-23T08:43:24.000Z",
+        "category": {
+            "id": 9538,
+            "logo": null,
+            "name": "Half Sleeve Shirt",
+            "slug": "half-sleeve-shirt",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70679,
+                "productId": 25686,
+                "images": "manfarebd/media/177686930052461389453_ms_204_2.webp",
+                "sku": "SKU-HSPCSFM|M-09522-0",
+                "customSku": "MS-204-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 3,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174891,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174892,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70680,
+                "productId": 25686,
+                "images": "manfarebd/media/177686930052461389453_ms_204_2.webp",
+                "sku": "SKU-HSPCSFM|M-09522-1",
+                "customSku": "MS-204-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 12,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174767,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174768,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70681,
+                "productId": 25686,
+                "images": "manfarebd/media/177686930052461389453_ms_204_2.webp",
+                "sku": "SKU-HSPCSFM|M-09522-2",
+                "customSku": "MS-204-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174565,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174566,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70682,
+                "productId": 25686,
+                "images": "manfarebd/media/177686930052461389453_ms_204_2.webp",
+                "sku": "SKU-HSPCSFM|M-09522-3",
+                "customSku": "MS-204-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174559,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174560,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25750,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Formal BOOTCUT GURKHA PANT For Men | MPANT-26",
+        "slug": "premium-formal-bootcut-gurkha-pant-for-men-mpant26",
+        "sku": "SKU-PFBGPFM|M-02845",
+        "thumbnail": "manfarebd/media/178482150335922417188_mpant_26.webp,manfarebd/media/177808034803111841968_mpant_26_2.webp",
+        "shortDescription": null,
+        "vat": 0,
+        "categoryId": 9541,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T19:21:46.152Z",
+        "updatedAt": "2026-07-23T15:45:33.000Z",
+        "category": {
+            "id": 9541,
+            "logo": null,
+            "name": "Bootcut Gurkha Pant",
+            "slug": "bootcut-gurkha-pant",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70901,
+                "productId": 25750,
+                "images": "manfarebd/media/177808034803111841968_mpant_26_2.webp,manfarebd/media/177808035201639564726_mpant_26_3.webp",
+                "sku": "SKU-PFBGPFM|M-02845-0",
+                "customSku": "MPANT-26-30",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 88,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174361,
+                        "key": "Color",
+                        "value": "Maroon"
+                    },
+                    {
+                        "id": 174362,
+                        "key": "Size",
+                        "value": "30"
+                    }
+                ]
+            },
+            {
+                "id": 70902,
+                "productId": 25750,
+                "images": "manfarebd/media/177808034803111841968_mpant_26_2.webp,manfarebd/media/177808035201639564726_mpant_26_3.webp",
+                "sku": "SKU-PFBGPFM|M-02845-1",
+                "customSku": "MPANT-26-32",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 88,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174363,
+                        "key": "Color",
+                        "value": "Maroon"
+                    },
+                    {
+                        "id": 174364,
+                        "key": "Size",
+                        "value": "32"
+                    }
+                ]
+            },
+            {
+                "id": 70903,
+                "productId": 25750,
+                "images": "manfarebd/media/177808034803111841968_mpant_26_2.webp,manfarebd/media/177808035201639564726_mpant_26_3.webp",
+                "sku": "SKU-PFBGPFM|M-02845-2",
+                "customSku": "MPANT-26-34",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 88,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174357,
+                        "key": "Color",
+                        "value": "Maroon"
+                    },
+                    {
+                        "id": 174358,
+                        "key": "Size",
+                        "value": "34"
+                    }
+                ]
+            },
+            {
+                "id": 70904,
+                "productId": 25750,
+                "images": "manfarebd/media/177808034803111841968_mpant_26_2.webp,manfarebd/media/177808035201639564726_mpant_26_3.webp",
+                "sku": "SKU-PFBGPFM|M-02845-3",
+                "customSku": "MPANT-26-36",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 93,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174359,
+                        "key": "Color",
+                        "value": "Maroon"
+                    },
+                    {
+                        "id": 174360,
+                        "key": "Size",
+                        "value": "36"
+                    }
+                ]
+            },
+            {
+                "id": 70905,
+                "productId": 25750,
+                "images": "manfarebd/media/177808034803111841968_mpant_26_2.webp,manfarebd/media/177808035201639564726_mpant_26_3.webp",
+                "sku": "SKU-PFBGPFM|M-02845-4",
+                "customSku": "MPANT-26-38",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 84,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174365,
+                        "key": "Color",
+                        "value": "Maroon"
+                    },
+                    {
+                        "id": 174366,
+                        "key": "Size",
+                        "value": "38"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 22278,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Acid Wash - Most Trendy Drop Shoulder T Shirt | MF-716",
+        "slug": "acid-wash-most-trendy-drop-shoulder-t-shirt-mf716",
+        "sku": "SKU-AW-MTDSTS|M-06492",
+        "thumbnail": "manfarebd/media/175915135532844357337_mf_716_2.webp,manfarebd/media/175915131551868485140_mf_716_1.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;padding:10px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:inline-flex;gap:14px;padding:12px 16px;\"><!-- Icon --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><rect x=\"1\" y=\"3\" width=\"15\" height=\"13\" rx=\"1\"></rect><path d=\"M16 8h4l3 5v3h-7V8z\"></path><circle cx=\"5.5\" cy=\"18.5\" r=\"1.5\"></circle><circle cx=\"18.5\" cy=\"18.5\" r=\"1.5\"></circle></svg></div><!-- Text --><div style=\"padding-right:20px;\"><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 3px;\"><strong>Buy any 2, Get Free Delivery</strong></p></div></div></div>",
+        "vat": 0,
+        "categoryId": 3826,
+        "brandId": 152,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2025-09-29T13:09:50.641Z",
+        "updatedAt": "2026-07-20T09:56:53.000Z",
+        "category": {
+            "id": 3826,
+            "logo": null,
+            "name": "Drop Shoulder T-Shirt",
+            "slug": "drop-shoulder-tshirt",
+            "leaf": true
+        },
+        "brand": {
+            "id": 152,
+            "logo": "manfarebd/media/1730205049855-manfarebd-id-13.jpeg",
+            "slug": "manfare",
+            "name": "manfare"
+        },
+        "skus": [
+            {
+                "id": 59783,
+                "productId": 22278,
+                "images": "manfarebd/media/175915135532844357337_mf_716_2.webp,manfarebd/media/175915136074176935312_mf_716_3.webp,manfarebd/media/175915136728047641560_mf_716_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-06492-0",
+                "customSku": "MF-716-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 28,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166248,
+                        "key": "Color",
+                        "value": "Bottle Green"
+                    },
+                    {
+                        "id": 166249,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 59784,
+                "productId": 22278,
+                "images": "manfarebd/media/175915135532844357337_mf_716_2.webp,manfarebd/media/175915136074176935312_mf_716_3.webp,manfarebd/media/175915136728047641560_mf_716_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-06492-1",
+                "customSku": "MF-716-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 31,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166250,
+                        "key": "Color",
+                        "value": "Bottle Green"
+                    },
+                    {
+                        "id": 166251,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 59785,
+                "productId": 22278,
+                "images": "manfarebd/media/175915135532844357337_mf_716_2.webp,manfarebd/media/175915136074176935312_mf_716_3.webp,manfarebd/media/175915136728047641560_mf_716_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-06492-2",
+                "customSku": "MF-716-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 28,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166252,
+                        "key": "Color",
+                        "value": "Bottle Green"
+                    },
+                    {
+                        "id": 166253,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 59786,
+                "productId": 22278,
+                "images": "manfarebd/media/175915135532844357337_mf_716_2.webp,manfarebd/media/175915136074176935312_mf_716_3.webp,manfarebd/media/175915136728047641560_mf_716_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-06492-3",
+                "customSku": "MF-716-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 31,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166254,
+                        "key": "Color",
+                        "value": "Bottle Green"
+                    },
+                    {
+                        "id": 166255,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 22258,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Acid Wash - Most Trendy Drop Shoulder T Shirt | MF-703",
+        "slug": "acid-wash-most-trendy-drop-shoulder-t-shirt-mf703",
+        "sku": "SKU-AW-MTDSTS|M-09937",
+        "thumbnail": "manfarebd/media/175914849051041567257_mf_703_2.webp,manfarebd/media/175914843313487619433_mf_703_1.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;padding:10px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:inline-flex;gap:14px;padding:12px 16px;\"><!-- Icon --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><rect x=\"1\" y=\"3\" width=\"15\" height=\"13\" rx=\"1\"></rect><path d=\"M16 8h4l3 5v3h-7V8z\"></path><circle cx=\"5.5\" cy=\"18.5\" r=\"1.5\"></circle><circle cx=\"18.5\" cy=\"18.5\" r=\"1.5\"></circle></svg></div><!-- Text --><div style=\"padding-right:20px;\"><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 3px;\"><strong>Buy any 2, Get Free Delivery</strong></p></div></div></div>",
+        "vat": 0,
+        "categoryId": 3826,
+        "brandId": 152,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2025-09-29T12:25:00.633Z",
+        "updatedAt": "2026-07-20T10:07:59.000Z",
+        "category": {
+            "id": 3826,
+            "logo": null,
+            "name": "Drop Shoulder T-Shirt",
+            "slug": "drop-shoulder-tshirt",
+            "leaf": true
+        },
+        "brand": {
+            "id": 152,
+            "logo": "manfarebd/media/1730205049855-manfarebd-id-13.jpeg",
+            "slug": "manfare",
+            "name": "manfare"
+        },
+        "skus": [
+            {
+                "id": 59685,
+                "productId": 22258,
+                "images": "manfarebd/media/175914849051041567257_mf_703_2.webp,manfarebd/media/175914849934091585110_mf_703_3.webp,manfarebd/media/175914851386360664112_mf_703_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-09937-0",
+                "customSku": "MF-703-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 35,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166336,
+                        "key": "Color",
+                        "value": "Acid Wash Black"
+                    },
+                    {
+                        "id": 166337,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 59686,
+                "productId": 22258,
+                "images": "manfarebd/media/175914849051041567257_mf_703_2.webp,manfarebd/media/175914849934091585110_mf_703_3.webp,manfarebd/media/175914851386360664112_mf_703_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-09937-1",
+                "customSku": "MF-703-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 39,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166338,
+                        "key": "Color",
+                        "value": "Acid Wash Black"
+                    },
+                    {
+                        "id": 166339,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 59687,
+                "productId": 22258,
+                "images": "manfarebd/media/175914849051041567257_mf_703_2.webp,manfarebd/media/175914849934091585110_mf_703_3.webp,manfarebd/media/175914851386360664112_mf_703_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-09937-2",
+                "customSku": "MF-703-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 39,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166340,
+                        "key": "Color",
+                        "value": "Acid Wash Black"
+                    },
+                    {
+                        "id": 166341,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 59688,
+                "productId": 22258,
+                "images": "manfarebd/media/175914849051041567257_mf_703_2.webp,manfarebd/media/175914849934091585110_mf_703_3.webp,manfarebd/media/175914851386360664112_mf_703_4.webp",
+                "sku": "SKU-AW-MTDSTS|M-09937-3",
+                "customSku": "MF-703-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 650,
+                "discountedType": "amount",
+                "discountedValue": 650,
+                "discountedPrice": 650,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 36,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 166342,
+                        "key": "Color",
+                        "value": "Acid Wash Black"
+                    },
+                    {
+                        "id": 166343,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25673,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Half Sleeve Printed Casual Shirt For Men | MS-219",
+        "slug": "half-sleeve-printed-casual-shirt-for-men-ms219",
+        "sku": "SKU-HSPCSFM|M-01079",
+        "thumbnail": "manfarebd/media/177798565974822876382_ms_219_1.webp,manfarebd/media/178333545008740005679_ms_2194.webp,manfarebd/media/177686853745015203357_ms_219_2.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;max-width:420px;padding:20px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:flex;gap:14px;justify-content:space-between;padding:12px 16px;\"><div style=\"align-items:center;display:flex;gap:12px;\"><!-- Icon box --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><path d=\"M6 2L2 7l3 1v13h14V8l3-1-4-5c0 0-1.5 2-4 2s-4-2-4-2z\"></path></svg></div><!-- Text --><div><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 2px;\"><strong>Stock Clearance Offer</strong></p><p style=\"color:#8c6040;font-size:12px;margin:0;\">Limited Stock - 2 Days Left</p></div></div><!-- 50% badge --><div style=\"background-color:#a07850;border-radius:8px;flex-shrink:0;padding:6px 14px;text-align:center;\"><p style=\"color:#fff;font-size:28px;line-height:1.1;margin:0;\"><strong>50%</strong></p><p style=\"color:#f5e6d8;font-size:10px;letter-spacing:0.08em;margin:0;\">DISCOUNT</p></div></div></div>",
+        "vat": 0,
+        "categoryId": 9538,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-04-22T15:20:12.535Z",
+        "updatedAt": "2026-07-23T08:28:25.000Z",
+        "category": {
+            "id": 9538,
+            "logo": null,
+            "name": "Half Sleeve Shirt",
+            "slug": "half-sleeve-shirt",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70627,
+                "productId": 25673,
+                "images": "manfarebd/media/177686853745015203357_ms_219_2.webp,manfarebd/media/178333545008740005679_ms_2194.webp",
+                "sku": "SKU-HSPCSFM|M-01079-0",
+                "customSku": "MS-219-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 11,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174825,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174826,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70628,
+                "productId": 25673,
+                "images": "manfarebd/media/177686853745015203357_ms_219_2.webp,manfarebd/media/178333545008740005679_ms_2194.webp",
+                "sku": "SKU-HSPCSFM|M-01079-1",
+                "customSku": "MS-219-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 25,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174829,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174830,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70629,
+                "productId": 25673,
+                "images": "manfarebd/media/177686853745015203357_ms_219_2.webp,manfarebd/media/178333545008740005679_ms_2194.webp",
+                "sku": "SKU-HSPCSFM|M-01079-2",
+                "customSku": "MS-219-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 13,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174663,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174664,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70630,
+                "productId": 25673,
+                "images": "manfarebd/media/177686853745015203357_ms_219_2.webp,manfarebd/media/178333545008740005679_ms_2194.webp",
+                "sku": "SKU-HSPCSFM|M-01079-3",
+                "customSku": "MS-219-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 7,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174827,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174828,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25685,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Half Sleeve Printed Casual Shirt For Men | MS-196",
+        "slug": "half-sleeve-printed-casual-shirt-for-men-ms196",
+        "sku": "SKU-HSPCSFM|M-05065",
+        "thumbnail": "manfarebd/media/177738905080734038377_ms_196.webp,manfarebd/media/178333351872883671305_ms_1964.webp,manfarebd/media/177686927888165596901_ms_196_2.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;max-width:420px;padding:20px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:flex;gap:14px;justify-content:space-between;padding:12px 16px;\"><div style=\"align-items:center;display:flex;gap:12px;\"><!-- Icon box --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><path d=\"M6 2L2 7l3 1v13h14V8l3-1-4-5c0 0-1.5 2-4 2s-4-2-4-2z\"></path></svg></div><!-- Text --><div><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 2px;\"><strong>Stock Clearance Offer</strong></p><p style=\"color:#8c6040;font-size:12px;margin:0;\">Limited Stock - 2 Days Left</p></div></div><!-- 50% badge --><div style=\"background-color:#a07850;border-radius:8px;flex-shrink:0;padding:6px 14px;text-align:center;\"><p style=\"color:#fff;font-size:28px;line-height:1.1;margin:0;\"><strong>50%</strong></p><p style=\"color:#f5e6d8;font-size:10px;letter-spacing:0.08em;margin:0;\">DISCOUNT</p></div></div></div>",
+        "vat": 0,
+        "categoryId": 9538,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-04-22T15:51:02.204Z",
+        "updatedAt": "2026-07-23T08:43:43.000Z",
+        "category": {
+            "id": 9538,
+            "logo": null,
+            "name": "Half Sleeve Shirt",
+            "slug": "half-sleeve-shirt",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70675,
+                "productId": 25685,
+                "images": "manfarebd/media/177686927888165596901_ms_196_2.webp,manfarebd/media/178333351872883671305_ms_1964.webp",
+                "sku": "SKU-HSPCSFM|M-05065-0",
+                "customSku": "MS-196-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174567,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174568,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70676,
+                "productId": 25685,
+                "images": "manfarebd/media/177686927888165596901_ms_196_2.webp,manfarebd/media/178333351872883671305_ms_1964.webp",
+                "sku": "SKU-HSPCSFM|M-05065-1",
+                "customSku": "MS-196-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 0,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174573,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174574,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70677,
+                "productId": 25685,
+                "images": "manfarebd/media/177686927888165596901_ms_196_2.webp,manfarebd/media/178333351872883671305_ms_1964.webp",
+                "sku": "SKU-HSPCSFM|M-05065-2",
+                "customSku": "MS-196-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 1,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174787,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174788,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70678,
+                "productId": 25685,
+                "images": "manfarebd/media/177686927888165596901_ms_196_2.webp,manfarebd/media/178333351872883671305_ms_1964.webp",
+                "sku": "SKU-HSPCSFM|M-05065-3",
+                "customSku": "MS-196-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 6,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174785,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174786,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25749,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Formal BOOTCUT GURKHA PANT For Men | MPANT-27",
+        "slug": "premium-formal-bootcut-gurkha-pant-for-men-mpant27",
+        "sku": "SKU-PFBGPFM|M-06693",
+        "thumbnail": "manfarebd/media/178482154409698394005_mpant_27.webp,manfarebd/media/177808038716558388197_mpant_27_2.webp",
+        "shortDescription": null,
+        "vat": 0,
+        "categoryId": 9541,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T19:18:48.564Z",
+        "updatedAt": "2026-07-23T15:45:51.000Z",
+        "category": {
+            "id": 9541,
+            "logo": null,
+            "name": "Bootcut Gurkha Pant",
+            "slug": "bootcut-gurkha-pant",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70896,
+                "productId": 25749,
+                "images": "manfarebd/media/177808038716558388197_mpant_27_2.webp,manfarebd/media/177808039167212224271_mpant_27_3.webp",
+                "sku": "SKU-PFBGPFM|M-06693-0",
+                "customSku": "MPANT-27-30",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 81,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174373,
+                        "key": "Color",
+                        "value": "Khaki"
+                    },
+                    {
+                        "id": 174374,
+                        "key": "Size",
+                        "value": "30"
+                    }
+                ]
+            },
+            {
+                "id": 70897,
+                "productId": 25749,
+                "images": "manfarebd/media/177808038716558388197_mpant_27_2.webp,manfarebd/media/177808039167212224271_mpant_27_3.webp",
+                "sku": "SKU-PFBGPFM|M-06693-1",
+                "customSku": "MPANT-27-32",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 70,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174369,
+                        "key": "Color",
+                        "value": "Khaki"
+                    },
+                    {
+                        "id": 174370,
+                        "key": "Size",
+                        "value": "32"
+                    }
+                ]
+            },
+            {
+                "id": 70898,
+                "productId": 25749,
+                "images": "manfarebd/media/177808038716558388197_mpant_27_2.webp,manfarebd/media/177808039167212224271_mpant_27_3.webp",
+                "sku": "SKU-PFBGPFM|M-06693-2",
+                "customSku": "MPANT-27-34",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 81,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174371,
+                        "key": "Color",
+                        "value": "Khaki"
+                    },
+                    {
+                        "id": 174372,
+                        "key": "Size",
+                        "value": "34"
+                    }
+                ]
+            },
+            {
+                "id": 70899,
+                "productId": 25749,
+                "images": "manfarebd/media/177808038716558388197_mpant_27_2.webp,manfarebd/media/177808039167212224271_mpant_27_3.webp",
+                "sku": "SKU-PFBGPFM|M-06693-3",
+                "customSku": "MPANT-27-36",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 82,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174367,
+                        "key": "Color",
+                        "value": "Khaki"
+                    },
+                    {
+                        "id": 174368,
+                        "key": "Size",
+                        "value": "36"
+                    }
+                ]
+            },
+            {
+                "id": 70900,
+                "productId": 25749,
+                "images": "manfarebd/media/177808038716558388197_mpant_27_2.webp,manfarebd/media/177808039167212224271_mpant_27_3.webp",
+                "sku": "SKU-PFBGPFM|M-06693-4",
+                "customSku": "MPANT-27-38",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 77,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174375,
+                        "key": "Color",
+                        "value": "Khaki"
+                    },
+                    {
+                        "id": 174376,
+                        "key": "Size",
+                        "value": "38"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25748,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Formal BOOTCUT GURKHA PANT For Men | MPANT-28",
+        "slug": "premium-formal-bootcut-gurkha-pant-for-men-mpant28",
+        "sku": "SKU-PFBGPFM|M-04908",
+        "thumbnail": "manfarebd/media/178482156219278808796_mpant_28.webp,manfarebd/media/177808042568393282227_mpant_28_2.webp",
+        "shortDescription": null,
+        "vat": 0,
+        "categoryId": 9541,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T19:12:33.067Z",
+        "updatedAt": "2026-07-23T15:46:07.000Z",
+        "category": {
+            "id": 9541,
+            "logo": null,
+            "name": "Bootcut Gurkha Pant",
+            "slug": "bootcut-gurkha-pant",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70891,
+                "productId": 25748,
+                "images": "manfarebd/media/177808042568393282227_mpant_28_2.webp,manfarebd/media/177808043082886244600_mpant_28_3.webp",
+                "sku": "SKU-PFBGPFM|M-04908-0",
+                "customSku": "MPANT-28-30",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 93,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174381,
+                        "key": "Color",
+                        "value": "Teal"
+                    },
+                    {
+                        "id": 174382,
+                        "key": "Size",
+                        "value": "30"
+                    }
+                ]
+            },
+            {
+                "id": 70892,
+                "productId": 25748,
+                "images": "manfarebd/media/177808042568393282227_mpant_28_2.webp,manfarebd/media/177808043082886244600_mpant_28_3.webp",
+                "sku": "SKU-PFBGPFM|M-04908-1",
+                "customSku": "MPANT-28-32",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 86,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174383,
+                        "key": "Color",
+                        "value": "Teal"
+                    },
+                    {
+                        "id": 174384,
+                        "key": "Size",
+                        "value": "32"
+                    }
+                ]
+            },
+            {
+                "id": 70893,
+                "productId": 25748,
+                "images": "manfarebd/media/177808042568393282227_mpant_28_2.webp,manfarebd/media/177808043082886244600_mpant_28_3.webp",
+                "sku": "SKU-PFBGPFM|M-04908-2",
+                "customSku": "MPANT-28-34",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 90,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174385,
+                        "key": "Color",
+                        "value": "Teal"
+                    },
+                    {
+                        "id": 174386,
+                        "key": "Size",
+                        "value": "34"
+                    }
+                ]
+            },
+            {
+                "id": 70894,
+                "productId": 25748,
+                "images": "manfarebd/media/177808042568393282227_mpant_28_2.webp,manfarebd/media/177808043082886244600_mpant_28_3.webp",
+                "sku": "SKU-PFBGPFM|M-04908-3",
+                "customSku": "MPANT-28-36",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 94,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174377,
+                        "key": "Color",
+                        "value": "Teal"
+                    },
+                    {
+                        "id": 174378,
+                        "key": "Size",
+                        "value": "36"
+                    }
+                ]
+            },
+            {
+                "id": 70895,
+                "productId": 25748,
+                "images": "manfarebd/media/177808042568393282227_mpant_28_2.webp,manfarebd/media/177808043082886244600_mpant_28_3.webp",
+                "sku": "SKU-PFBGPFM|M-04908-4",
+                "customSku": "MPANT-28-38",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1490,
+                "discountedType": "amount",
+                "discountedValue": 300,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 96,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174379,
+                        "key": "Color",
+                        "value": "Teal"
+                    },
+                    {
+                        "id": 174380,
+                        "key": "Size",
+                        "value": "38"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25738,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Knitted Polo Shirt For Men | MFP-51",
+        "slug": "premium-knitted-polo-shirt-for-men-mfp51",
+        "sku": "SKU-PKPSFM|M-01114",
+        "thumbnail": "manfarebd/media/177780792692689636352_mfp_51_1.webp,manfarebd/media/177780792355994667943_mfp_51_2.webp",
+        "shortDescription": null,
+        "vat": 0,
+        "categoryId": 9539,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T11:33:01.550Z",
+        "updatedAt": "2026-07-01T14:30:27.000Z",
+        "category": {
+            "id": 9539,
+            "logo": null,
+            "name": "Knitted Polo",
+            "slug": "knitted-polo",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70851,
+                "productId": 25738,
+                "images": "manfarebd/media/177780792355994667943_mfp_51_2.webp,manfarebd/media/177780791992142526122_mfp_51_3.webp,manfarebd/media/177780791600018586135_mfp_51_4.webp",
+                "sku": "SKU-PKPSFM|M-01114-0",
+                "customSku": "MFP-51-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 1,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172109,
+                        "key": "Color",
+                        "value": "White"
+                    },
+                    {
+                        "id": 172110,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70852,
+                "productId": 25738,
+                "images": "manfarebd/media/177780792355994667943_mfp_51_2.webp,manfarebd/media/177780791992142526122_mfp_51_3.webp,manfarebd/media/177780791600018586135_mfp_51_4.webp",
+                "sku": "SKU-PKPSFM|M-01114-1",
+                "customSku": "MFP-51-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 22,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172113,
+                        "key": "Color",
+                        "value": "White"
+                    },
+                    {
+                        "id": 172114,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70853,
+                "productId": 25738,
+                "images": "manfarebd/media/177780792355994667943_mfp_51_2.webp,manfarebd/media/177780791992142526122_mfp_51_3.webp,manfarebd/media/177780791600018586135_mfp_51_4.webp",
+                "sku": "SKU-PKPSFM|M-01114-2",
+                "customSku": "MFP-51-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 15,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172115,
+                        "key": "Color",
+                        "value": "White"
+                    },
+                    {
+                        "id": 172116,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70854,
+                "productId": 25738,
+                "images": "manfarebd/media/177780792355994667943_mfp_51_2.webp,manfarebd/media/177780791992142526122_mfp_51_3.webp,manfarebd/media/177780791600018586135_mfp_51_4.webp",
+                "sku": "SKU-PKPSFM|M-01114-3",
+                "customSku": "MFP-51-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 21,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172111,
+                        "key": "Color",
+                        "value": "White"
+                    },
+                    {
+                        "id": 172112,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25737,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Premium Knitted Polo Shirt For Men | MFP-52",
+        "slug": "premium-knitted-polo-shirt-for-men-mfp52",
+        "sku": "SKU-PKPSFM|M-01954",
+        "thumbnail": "manfarebd/media/177780781868242202997_mfp_52_1.webp,manfarebd/media/177780781518755729629_mfp_52_2.webp",
+        "shortDescription": null,
+        "vat": 0,
+        "categoryId": 9539,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-05-03T11:31:16.415Z",
+        "updatedAt": "2026-07-01T14:30:39.000Z",
+        "category": {
+            "id": 9539,
+            "logo": null,
+            "name": "Knitted Polo",
+            "slug": "knitted-polo",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70847,
+                "productId": 25737,
+                "images": "manfarebd/media/177780781518755729629_mfp_52_2.webp,manfarebd/media/177780781156621679278_mfp_52_3.webp,manfarebd/media/177780780791029814569_mfp_52_4.webp",
+                "sku": "SKU-PKPSFM|M-01954-0",
+                "customSku": "MFP-52-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 17,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172117,
+                        "key": "Color",
+                        "value": "Biscuit"
+                    },
+                    {
+                        "id": 172118,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70848,
+                "productId": 25737,
+                "images": "manfarebd/media/177780781518755729629_mfp_52_2.webp,manfarebd/media/177780781156621679278_mfp_52_3.webp,manfarebd/media/177780780791029814569_mfp_52_4.webp",
+                "sku": "SKU-PKPSFM|M-01954-1",
+                "customSku": "MFP-52-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 33,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172119,
+                        "key": "Color",
+                        "value": "Biscuit"
+                    },
+                    {
+                        "id": 172120,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70849,
+                "productId": 25737,
+                "images": "manfarebd/media/177780781518755729629_mfp_52_2.webp,manfarebd/media/177780781156621679278_mfp_52_3.webp,manfarebd/media/177780780791029814569_mfp_52_4.webp",
+                "sku": "SKU-PKPSFM|M-01954-2",
+                "customSku": "MFP-52-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 35,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 172121,
+                        "key": "Color",
+                        "value": "Biscuit"
+                    },
+                    {
+                        "id": 172122,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70850,
+                "productId": 25737,
+                "images": "manfarebd/media/177780781518755729629_mfp_52_2.webp,manfarebd/media/177780781156621679278_mfp_52_3.webp,manfarebd/media/177780780791029814569_mfp_52_4.webp",
+                "sku": "SKU-PKPSFM|M-01954-3",
+                "customSku": "MFP-52-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 310,
+                "discountedPrice": 1190,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 9,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 170567,
+                        "key": "Color",
+                        "value": "Biscuit"
+                    },
+                    {
+                        "id": 170568,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25683,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Half Sleeve Printed Casual Shirt For Men | MS-225",
+        "slug": "half-sleeve-printed-casual-shirt-for-men-ms225",
+        "sku": "SKU-HSPCSFM|M-08382",
+        "thumbnail": "manfarebd/media/177781710366771076571_ms_225_1.webp,manfarebd/media/178333410824930684157_ms_2254.webp,manfarebd/media/177781712958088575570_ms_225_2.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;max-width:420px;padding:20px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:flex;gap:14px;justify-content:space-between;padding:12px 16px;\"><div style=\"align-items:center;display:flex;gap:12px;\"><!-- Icon box --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><path d=\"M6 2L2 7l3 1v13h14V8l3-1-4-5c0 0-1.5 2-4 2s-4-2-4-2z\"></path></svg></div><!-- Text --><div><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 2px;\"><strong>Stock Clearance Offer</strong></p><p style=\"color:#8c6040;font-size:12px;margin:0;\">Limited Stock - 2 Days Left</p></div></div><!-- 50% badge --><div style=\"background-color:#a07850;border-radius:8px;flex-shrink:0;padding:6px 14px;text-align:center;\"><p style=\"color:#fff;font-size:28px;line-height:1.1;margin:0;\"><strong>50%</strong></p><p style=\"color:#f5e6d8;font-size:10px;letter-spacing:0.08em;margin:0;\">DISCOUNT</p></div></div></div>",
+        "vat": 0,
+        "categoryId": 9538,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-04-22T15:43:13.985Z",
+        "updatedAt": "2026-07-23T08:20:54.000Z",
+        "category": {
+            "id": 9538,
+            "logo": null,
+            "name": "Half Sleeve Shirt",
+            "slug": "half-sleeve-shirt",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70667,
+                "productId": 25683,
+                "images": "manfarebd/media/177781712958088575570_ms_225_2.webp,manfarebd/media/178333410824930684157_ms_2254.webp",
+                "sku": "SKU-HSPCSFM|M-08382-0",
+                "customSku": "MS-225-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 1,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174771,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174772,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70668,
+                "productId": 25683,
+                "images": "manfarebd/media/177781712958088575570_ms_225_2.webp,manfarebd/media/178333410824930684157_ms_2254.webp",
+                "sku": "SKU-HSPCSFM|M-08382-1",
+                "customSku": "MS-225-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 12,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174773,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174774,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70669,
+                "productId": 25683,
+                "images": "manfarebd/media/177781712958088575570_ms_225_2.webp,manfarebd/media/178333410824930684157_ms_2254.webp",
+                "sku": "SKU-HSPCSFM|M-08382-2",
+                "customSku": "MS-225-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 4,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174769,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174770,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70670,
+                "productId": 25683,
+                "images": "manfarebd/media/177781712958088575570_ms_225_2.webp,manfarebd/media/178333410824930684157_ms_2254.webp",
+                "sku": "SKU-HSPCSFM|M-08382-3",
+                "customSku": "MS-225-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 10,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174775,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174776,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    },
+    {
+        "id": 25691,
+        "sbarcode": null,
+        "stylecode": null,
+        "hscode": null,
+        "name": "Half Sleeve Printed Casual Shirt For Men | MS-212",
+        "slug": "half-sleeve-printed-casual-shirt-for-men-ms212",
+        "sku": "SKU-HSPCSFM|M-01998",
+        "thumbnail": "manfarebd/media/177781785849425805670_ms_212_1.webp,manfarebd/media/178333301238255554629_ms_2124.webp,manfarebd/media/177686931923436620055_ms_212_2.webp",
+        "shortDescription": "<div style=\"font-family:sans-serif;max-width:420px;padding:20px 0;\"><div style=\"align-items:center;background-color:#fdf8f4;border-radius:12px;border:1.5px solid #b89070;display:flex;gap:14px;justify-content:space-between;padding:12px 16px;\"><div style=\"align-items:center;display:flex;gap:12px;\"><!-- Icon box --><div style=\"align-items:center;background-color:#a07850;border-radius:10px;display:flex;flex-shrink:0;height:40px;justify-content:center;width:40px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 24 24\"><path d=\"M6 2L2 7l3 1v13h14V8l3-1-4-5c0 0-1.5 2-4 2s-4-2-4-2z\"></path></svg></div><!-- Text --><div><p style=\"color:#5c3d1e;font-size:14px;margin:0 0 2px;\"><strong>Stock Clearance Offer</strong></p><p style=\"color:#8c6040;font-size:12px;margin:0;\">Limited Stock - 2 Days Left</p></div></div><!-- 50% badge --><div style=\"background-color:#a07850;border-radius:8px;flex-shrink:0;padding:6px 14px;text-align:center;\"><p style=\"color:#fff;font-size:28px;line-height:1.1;margin:0;\"><strong>50%</strong></p><p style=\"color:#f5e6d8;font-size:10px;letter-spacing:0.08em;margin:0;\">DISCOUNT</p></div></div></div>",
+        "vat": 0,
+        "categoryId": 9538,
+        "brandId": null,
+        "isLive": true,
+        "showPrice": true,
+        "isFeatured": false,
+        "featuredOrder": null,
+        "gift": null,
+        "status": "active",
+        "displayOnly": false,
+        "createdAt": "2026-04-22T16:04:19.854Z",
+        "updatedAt": "2026-07-23T08:40:12.000Z",
+        "category": {
+            "id": 9538,
+            "logo": null,
+            "name": "Half Sleeve Shirt",
+            "slug": "half-sleeve-shirt",
+            "leaf": true
+        },
+        "brand": null,
+        "skus": [
+            {
+                "id": 70699,
+                "productId": 25691,
+                "images": "manfarebd/media/177686931923436620055_ms_212_2.webp,manfarebd/media/178333301238255554629_ms_2124.webp",
+                "sku": "SKU-HSPCSFM|M-01998-0",
+                "customSku": "MS-212-M",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 19,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174883,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174884,
+                        "key": "Size",
+                        "value": "M"
+                    }
+                ]
+            },
+            {
+                "id": 70700,
+                "productId": 25691,
+                "images": "manfarebd/media/177686931923436620055_ms_212_2.webp,manfarebd/media/178333301238255554629_ms_2124.webp",
+                "sku": "SKU-HSPCSFM|M-01998-1",
+                "customSku": "MS-212-L",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 5,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174737,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174738,
+                        "key": "Size",
+                        "value": "L"
+                    }
+                ]
+            },
+            {
+                "id": 70701,
+                "productId": 25691,
+                "images": "manfarebd/media/177686931923436620055_ms_212_2.webp,manfarebd/media/178333301238255554629_ms_2124.webp",
+                "sku": "SKU-HSPCSFM|M-01998-2",
+                "customSku": "MS-212-XL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 14,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174885,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174886,
+                        "key": "Size",
+                        "value": "XL"
+                    }
+                ]
+            },
+            {
+                "id": 70702,
+                "productId": 25691,
+                "images": "manfarebd/media/177686931923436620055_ms_212_2.webp,manfarebd/media/178333301238255554629_ms_2124.webp",
+                "sku": "SKU-HSPCSFM|M-01998-3",
+                "customSku": "MS-212-XXL",
+                "barcode": null,
+                "sbarcode": null,
+                "stylecode": null,
+                "vat": 0,
+                "purchasePrice": 0,
+                "price": 1500,
+                "discountedType": "amount",
+                "discountedValue": 751,
+                "discountedPrice": 749,
+                "discountedPriceStart": null,
+                "discountedPriceEnd": null,
+                "stockQuantity": 13,
+                "status": "active",
+                "preOrder": false,
+                "preOrderPer": null,
+                "stockOut": false,
+                "modelNo": null,
+                "attributes": [
+                    {
+                        "id": 174881,
+                        "key": "Color",
+                        "value": "Multicolor"
+                    },
+                    {
+                        "id": 174882,
+                        "key": "Size",
+                        "value": "XXL"
+                    }
+                ]
+            }
+        ],
+        "review": null
+    }
+]
